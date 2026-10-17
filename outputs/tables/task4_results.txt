@@ -1,0 +1,81 @@
+
+======================================================================
+4.1a  Independent-samples t-test: current_cgpa by scholarship
+======================================================================
+H0: mu(scholarship=Yes) = mu(scholarship=No)   [current CGPA]
+H1: mu(scholarship=Yes) != mu(scholarship=No)
+n(Yes)=493, mean=3.4005, sd=0.4552
+n(No) =662, mean=3.1772, sd=0.4784
+
+Levene's test for equal variances: F=0.7735, p=0.3793
+ -> equal variances assumption HOLDS at alpha=0.05; using Student t-test accordingly.
+t-statistic=8.0106, df~1153, p-value=2.774e-15
+Hedges' g (effect size) = 0.4762
+Interpretation: Reject H0 — scholarship holders' mean CGPA differs significantly from non-holders'.
+
+======================================================================
+4.1b  Independent-samples t-test: attendance by probation status
+======================================================================
+H0: mu(attendance | probation=Yes) = mu(attendance | probation=No)
+H1: mu(attendance | probation=Yes) < mu(attendance | probation=No)  [one-tailed]
+n(Yes)=298, mean=82.0570, sd=19.0964
+n(No) =896, mean=90.3203, sd=13.2114
+
+Levene's test for equal variances: F=49.9204, p=2.717e-12
+ -> equal variances assumption VIOLATED at alpha=0.05; using Welch t-test accordingly.
+t-statistic=-6.9380, two-tailed p=1.632e-11, one-tailed p=8.161e-12
+Hedges' g (effect size) = -0.5544
+Interpretation: Reject H0 — students with a probation history have significantly lower mean attendance.
+
+======================================================================
+4.2a  Chi-square test of independence: probation vs scholarship
+======================================================================
+probation     No  Yes
+scholarship          
+No           448  223
+Yes          448   75
+
+H0: probation status is independent of scholarship status
+H1: probation status is associated with scholarship status
+chi2=55.0147, df=1, p-value=1.196e-13
+Min expected cell count = 130.53 (chi-square assumption check, should be >=5)
+Cramer's V (effect size) = 0.2147
+Probation rate | scholarship=Yes: 14.340%
+Probation rate | scholarship=No : 33.234%
+Interpretation: Reject H0 — probation rate significantly differs by scholarship status.
+
+======================================================================
+4.2b  Suspension rate by gender
+======================================================================
+suspension   No  Yes
+gender              
+Female      508   14
+Male        640   32
+
+Min expected cell count = 20.11
+ -> Chi-square assumption satisfied.
+chi2=2.8926, df=1, p-value=0.08899
+Suspension rate | Male:   4.762%
+Suspension rate | Female: 2.682%
+Interpretation: Fail to reject H0 — no statistically significant gender difference in suspension rate (note: suspension is rare, 46/1194 cases, limiting statistical power).
+
+======================================================================
+4.3  One-way ANOVA: current_cgpa by english_proficiency
+======================================================================
+Basic: n=291, mean=3.1634, sd=0.5771
+Intermediate: n=650, mean=3.3045, sd=0.4204
+Advance: n=214, mean=3.3236, sd=0.4909
+
+H0: mean CGPA is equal across all three English-proficiency groups
+H1: at least one group mean differs
+
+Levene's test for equal variances across groups: F=10.8264, p=2.197e-05
+ANOVA: F=10.2829, p-value=3.746e-05
+Eta-squared (effect size) = 0.0175
+
+Post-hoc pairwise t-tests with Bonferroni correction (3 comparisons, alpha_adj=0.0167):
+  Basic vs Intermediate: t=-4.2180, p=2.703e-05  -> SIGNIFICANT (Bonferroni-adjusted)
+  Basic vs Advance: t=-3.2798, p=0.001111  -> SIGNIFICANT (Bonferroni-adjusted)
+  Intermediate vs Advance: t=-0.5501, p=0.5824  -> not significant (Bonferroni-adjusted)
+
+Interpretation: Reject H0 — mean CGPA differs significantly across English-proficiency groups; see pairwise comparisons above for which groups drive the difference.

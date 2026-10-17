@@ -1,0 +1,16 @@
+,OLS,Ridge,Lasso,ElasticNet
+attendance,0.0881,0.0877,0.0825,0.0825
+study_hours,-0.008,-0.0079,-0.0,-0.0
+study_sessions,0.0023,0.0025,0.0,0.0
+social_media_hours,-0.0361,-0.0358,-0.0297,-0.0297
+skill_dev_hours,0.0115,0.0115,0.0049,0.0049
+semester,-0.1666,-0.1596,-0.1157,-0.1157
+credits_completed,0.2043,0.1966,0.1513,0.1513
+log_family_income,0.0009,0.0016,0.0011,0.0011
+english_proficiency_ord,0.0496,0.0499,0.0464,0.0464
+scholarship_yes,0.1137,0.113,0.1051,0.1051
+uses_transport_yes,-0.0008,-0.001,-0.0,-0.0
+learning_mode_online,-0.0332,-0.0332,-0.0295,-0.0295
+teacher_consultancy_yes,-0.0215,-0.0218,-0.0181,-0.0181
+co_curricular_yes,0.0013,0.0013,0.0,0.0
+gender_male,-0.0175,-0.0176,-0.0129,-0.0129

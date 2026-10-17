@@ -1,0 +1,6 @@
+strategy,students_flagged,missed_at_risk,false_alarms,total_cost,cost_saving_vs_do_nothing_%
+"Do nothing (reactive, status quo)",0,298,0,1490,0.0
+Intervene with everyone,1194,0,896,896,39.9
+EWS: Red only,181,203,86,1101,26.1
+EWS: Red + Amber,496,105,303,828,44.4
+EWS: cost-optimal cutoff (1/(1+5) = 0.167),748,51,501,756,49.3

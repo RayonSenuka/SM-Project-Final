@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,auc
+"Logistic (full, 15 predictors, balanced)",0.636,0.3663,0.6167,0.4596,0.7012
+"Logistic (backward-stepwise subset, k=7, balanced)",0.6444,0.3737,0.6167,0.4654,0.7051
+"Logistic (full, 15 predictors, unweighted)",0.7824,0.7222,0.2167,0.3333,0.7063

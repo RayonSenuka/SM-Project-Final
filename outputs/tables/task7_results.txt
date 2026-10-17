@@ -1,0 +1,80 @@
+Task 7 — PCA critical evaluation
+Predictor set (15, same as Task 5): ['attendance', 'study_hours', 'study_sessions', 'social_media_hours', 'skill_dev_hours', 'semester', 'credits_completed', 'log_family_income', 'english_proficiency_ord', 'scholarship_yes', 'uses_transport_yes', 'learning_mode_online', 'teacher_consultancy_yes', 'co_curricular_yes', 'gender_male']
+Regression sample (CGPA): n = 1155
+Classification sample (probation): n = 1194
+
+==============================================================================
+7A. PCA on the 15-predictor set (standardized)
+==============================================================================
+component  eigenvalue  explained_variance_ratio  cumulative_variance
+      PC1      2.6209                    0.1746               0.1746
+      PC2      1.5326                    0.1021               0.2767
+      PC3      1.1816                    0.0787               0.3554
+      PC4      1.1538                    0.0769               0.4322
+      PC5      1.1120                    0.0741               0.5063
+      PC6      0.9882                    0.0658               0.5721
+      PC7      0.9638                    0.0642               0.6363
+      PC8      0.9453                    0.0630               0.6993
+      PC9      0.8605                    0.0573               0.7566
+     PC10      0.8532                    0.0568               0.8134
+     PC11      0.7890                    0.0526               0.8660
+     PC12      0.7103                    0.0473               0.9133
+     PC13      0.6401                    0.0426               0.9559
+     PC14      0.5702                    0.0380               0.9939
+     PC15      0.0916                    0.0061               1.0000
+
+Components with eigenvalue > 1 (Kaiser criterion): 5 of 15
+Components needed for >=80% cumulative variance: 10 of 15
+Components needed for >=90% cumulative variance: 12 of 15
+
+Loadings, first 5 components (variables with |loading| >= 0.30 shown per PC):
+
+PC1 (17.5% of variance):
+  credits_completed            +0.563
+  semester                     +0.527
+  scholarship_yes              -0.361
+  log_family_income            +0.308
+
+PC2 (10.2% of variance):
+  study_hours                  +0.598
+  study_sessions               +0.580
+  skill_dev_hours              +0.325
+
+PC3 (7.9% of variance):
+  gender_male                  +0.605
+  log_family_income            -0.392
+  social_media_hours           -0.344
+  skill_dev_hours              +0.321
+
+PC4 (7.7% of variance):
+  co_curricular_yes            +0.590
+  uses_transport_yes           +0.472
+  english_proficiency_ord      +0.346
+  teacher_consultancy_yes      +0.344
+
+PC5 (7.4% of variance):
+  learning_mode_online         +0.619
+  social_media_hours           +0.505
+  attendance                   -0.419
+
+==============================================================================
+7B. CGPA regression: original 15 predictors vs top-PC regression (same test split)
+==============================================================================
+                        model  k_components_or_vars  test_r2  test_rmse
+OLS on original 15 predictors                    15   0.1644     0.4020
+             PCR — top 10 PCs                    10   0.1301     0.4102
+             PCR — top 15 PCs                    15   0.1644     0.4020
+
+==============================================================================
+7C. Probation classification: original 15 predictors vs top-PC logistic (same test split)
+==============================================================================
+                                        model  k_components_or_vars  accuracy  precision  recall     f1    auc
+Logistic on original 15 predictors (balanced)                    15    0.6360     0.3663  0.6167 0.4596 0.7011
+          PC-logistic — top 10 PCs (balanced)                    10    0.6611     0.3895  0.6167 0.4774 0.6934
+
+==============================================================================
+7D. Summary
+==============================================================================
+- 10 of 15 PCs are needed to reach 80% cumulative variance; 12 needed for 90%.
+- No small number of components dominates: variance is spread across most components (see task7_pca_variance.csv / scree plot).
+- Predictive performance: see task7_pcr_vs_ols.csv and task7_pc_logistic_vs_logistic.csv for the side-by-side test-set comparison.

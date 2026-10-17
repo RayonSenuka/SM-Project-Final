@@ -1,0 +1,1195 @@
+student_id,risk_prob,risk_tier,top_risk_drivers,attendance,semester,credits_completed,social_media_hours,study_hours,english_proficiency,scholarship,learning_mode,teacher_consultancy,probation
+S0139,0.959,Red,Low attendance + No scholarship,2.0,14,121,2,6,Advance,No,Online,Yes,Yes
+S0152,0.91,Red,No scholarship + Low attendance,80.0,22,77,3,2,Intermediate,No,Online,No,Yes
+S0706,0.892,Red,No scholarship + Low attendance,80.0,24,115,12,1,Intermediate,No,Online,Yes,Yes
+S0125,0.863,Red,No scholarship + Lower English proficiency,85.0,21,77,1,1,Basic,No,Offline,No,Yes
+S0119,0.86,Red,Low attendance + No scholarship,50.0,13,110,4,2,Basic,No,Offline,Yes,Yes
+S0188,0.854,Red,No scholarship + Lower English proficiency,100.0,22,80,1,3,Basic,No,Online,Yes,Yes
+S1085,0.851,Red,Low attendance + No scholarship,24.0,8,117,3,3,Basic,No,Online,Yes,No
+S1071,0.828,Red,Low attendance + No scholarship,35.0,11,107,11,5,Basic,No,Online,Yes,No
+S0861,0.788,Red,Low attendance + No scholarship,45.0,10,140,2,2,Intermediate,No,Online,No,Yes
+S0704,0.787,Red,Low attendance + No scholarship,0.0,8,90,2,6,Intermediate,No,Offline,Yes,Yes
+S0921,0.779,Red,Low attendance + No scholarship,23.0,5,72,3,2,Basic,No,Online,Yes,No
+S0886,0.775,Red,Low attendance + No scholarship,35.0,9,119,2,2,Intermediate,No,Offline,No,No
+S0312,0.769,Red,Low attendance + No scholarship,70.0,9,40,3,1,Basic,No,Online,Yes,Yes
+S0924,0.762,Red,Low attendance + No scholarship,32.0,7,109,2,3,Intermediate,No,Offline,No,No
+S0234,0.76,Red,No scholarship + Online learning mode,95.0,17,110,1,3,Intermediate,No,Online,Yes,No
+S0892,0.755,Red,Low attendance + No scholarship,35.0,11,143,1,3,Advance,No,Online,No,No
+S0645,0.755,Red,No scholarship + High social-media time,100.0,22,103,1,5,Intermediate,No,Offline,Yes,Yes
+S0398,0.747,Red,Low attendance + No scholarship,75.0,12,14,3,4,Intermediate,No,Offline,Yes,Yes
+S0937,0.74,Red,Low attendance + No scholarship,34.0,11,143,2,3,Intermediate,No,Offline,Yes,No
+S0941,0.734,Red,Low attendance + No scholarship,66.0,11,143,4,1,Basic,No,Online,Yes,No
+S0854,0.732,Red,Low attendance + No scholarship,35.0,11,143,2,2,Intermediate,No,Offline,No,No
+S0986,0.715,Red,Low attendance + No scholarship,54.0,11,143,3,2,Intermediate,No,Online,No,Yes
+S0210,0.712,Red,No scholarship + Online learning mode,90.0,15,126,2,1,Intermediate,No,Online,Yes,Yes
+S0803,0.712,Red,Low attendance + No scholarship,50.0,9,100,8,1,Basic,No,Offline,No,No
+S0912,0.695,Red,Low attendance + No scholarship,68.0,8,90,3,2,Basic,No,Online,No,No
+S0771,0.695,Red,Low attendance + No scholarship,50.0,8,98,2,2,Basic,No,Online,No,Yes
+S0841,0.685,Red,No scholarship + Lower English proficiency,80.0,10,45,2,1,Basic,No,Offline,Yes,Yes
+S0802,0.678,Red,Low attendance + No scholarship,34.0,8,88,2,2,Intermediate,No,Offline,No,Yes
+S0800,0.676,Red,Low attendance + No scholarship,51.0,11,136,2,1,Intermediate,No,Offline,Yes,No
+S1150,0.669,Red,Low attendance + No scholarship,50.0,7,88,2,3,Basic,No,Offline,No,No
+S0653,0.668,Red,Low attendance + No scholarship,57.0,8,77,4,1,Intermediate,No,Online,No,Yes
+S0730,0.667,Red,Low attendance + No scholarship,75.0,13,120,5,2,Basic,No,Offline,Yes,Yes
+S0038,0.666,Red,Low attendance + No scholarship,70.0,11,126,5,2,Basic,No,Online,Yes,Yes
+S0988,0.662,Red,Low attendance + No scholarship,60.0,12,122,3,1,Advance,No,Online,Yes,Yes
+S0983,0.66,Red,Low attendance + No scholarship,43.0,6,73,3,3,Intermediate,No,Online,Yes,Yes
+S1190,0.658,Red,Low attendance + No scholarship,46.0,8,100,2,1,Basic,No,Online,No,Yes
+S1109,0.658,Red,Low attendance + No scholarship,43.0,11,143,2,2,Intermediate,No,Offline,Yes,Yes
+S1091,0.657,Red,Low attendance + No scholarship,30.0,6,77,3,3,Basic,No,Offline,Yes,No
+S0169,0.647,Red,Low attendance + No scholarship,40.0,7,70,4,3,Basic,No,Offline,Yes,Yes
+S0955,0.64,Red,Low attendance + No scholarship,35.0,9,107,2,2,Intermediate,No,Offline,Yes,Yes
+S0909,0.637,Red,Low attendance + No scholarship,65.0,11,144,3,3,Intermediate,No,Offline,No,Yes
+S0403,0.633,Red,Low attendance + No scholarship,60.0,14,133,5,7,Intermediate,No,Offline,No,Yes
+S0788,0.631,Red,Low attendance + No scholarship,46.0,11,144,3,3,Intermediate,No,Online,No,Yes
+S0588,0.625,Red,No scholarship + Low attendance,80.0,17,140,8,4,Intermediate,No,Offline,Yes,Yes
+S0130,0.624,Red,Low attendance + No scholarship,70.0,14,118,1,3,Basic,No,Offline,No,Yes
+S0795,0.622,Red,Low attendance + No scholarship,46.0,5,63,2,2,Intermediate,No,Offline,Yes,Yes
+S0122,0.615,Red,No scholarship + Online learning mode,90.0,14,120,1,2,Intermediate,No,Online,Yes,Yes
+S0274,0.612,Red,Low attendance + Lower English proficiency,2.0,2,11,3,7,Basic,Yes,Offline,Yes,No
+S1169,0.61,Red,Low attendance + No scholarship,56.0,9,116,3,3,Basic,No,Offline,No,Yes
+S0173,0.609,Red,Low attendance + High social-media time,5.0,8,88,2,5,Intermediate,Yes,Offline,Yes,Yes
+S0918,0.607,Red,Low attendance + No scholarship,46.0,9,124,3,3,Advance,No,Online,No,No
+S0773,0.606,Red,No scholarship + Low attendance,80.0,10,79,1,2,Intermediate,No,Online,No,Yes
+S0790,0.605,Red,No scholarship + Low attendance,78.0,10,78,3,2,Intermediate,No,Offline,No,No
+S0238,0.585,Red,No scholarship + Few study hours,88.0,12,84,2,1,Intermediate,No,Offline,Yes,Yes
+S0147,0.584,Red,Low attendance + No scholarship,75.0,13,136,1,2,Basic,No,Offline,Yes,Yes
+S1026,0.583,Red,Low attendance + No scholarship,54.0,6,78,2,1,Intermediate,No,Offline,Yes,No
+S0222,0.579,Red,No scholarship + Online learning mode,88.0,12,115,2,4,Intermediate,No,Online,Yes,No
+S0156,0.578,Red,No scholarship + Low attendance,80.0,15,113,3,3,Advance,No,Online,Yes,Yes
+S0142,0.577,Red,Low attendance + No scholarship,50.0,10,113,6,5,Basic,No,Online,Yes,Yes
+S0657,0.574,Red,No scholarship + Online learning mode,90.0,16,143,4,6,Intermediate,No,Online,Yes,No
+S0282,0.57,Red,No scholarship + Lower English proficiency,80.0,7,65,1,2,Basic,No,Online,No,Yes
+S1075,0.57,Red,Low attendance + No scholarship,67.0,11,144,2,2,Intermediate,No,Offline,No,Yes
+S0207,0.567,Red,No scholarship + Low attendance,80.0,14,130,2,7,Intermediate,No,Online,No,Yes
+S1173,0.565,Red,Low attendance + No scholarship,55.0,10,135,3,2,Intermediate,No,Online,No,Yes
+S0124,0.564,Red,Low attendance + No scholarship,70.0,9,100,4,2,Intermediate,No,Online,Yes,No
+S0871,0.562,Red,Low attendance + No scholarship,41.0,5,68,1,2,Advance,No,Offline,Yes,No
+S0214,0.562,Red,Low attendance + No scholarship,70.0,10,104,1,4,Intermediate,No,Offline,Yes,Yes
+S0197,0.561,Red,No scholarship + Few study hours,95.0,18,133,3,2,Advance,No,Offline,Yes,Yes
+S1136,0.558,Red,Low attendance + No scholarship,67.0,11,143,2,1,Basic,No,Offline,No,Yes
+S0978,0.551,Red,Low attendance + No scholarship,30.0,3,34,10,3,Basic,No,Online,No,Yes
+S1031,0.55,Red,Low attendance + No scholarship,45.0,5,75,10,1,Intermediate,No,Online,No,Yes
+S0753,0.547,Red,Low attendance + No scholarship,60.0,7,101,7,3,Basic,No,Offline,Yes,Yes
+S0940,0.545,Red,Low attendance + No scholarship,76.0,11,143,3,2,Intermediate,No,Offline,Yes,Yes
+S0162,0.543,Red,No scholarship + Online learning mode,90.0,9,79,12,1,Intermediate,No,Online,Yes,No
+S0127,0.543,Red,Low attendance + No scholarship,70.0,9,76,1,1,Intermediate,No,Offline,No,No
+S0754,0.542,Red,Low attendance + No scholarship,54.0,9,127,3,1,Advance,No,Offline,Yes,Yes
+S0308,0.541,Red,Few study hours + No university transport,100.0,19,130,2,1,Intermediate,Yes,Offline,No,No
+S0253,0.535,Red,No scholarship + Lower English proficiency,90.0,14,133,3,3,Basic,No,Online,Yes,No
+S1052,0.533,Red,Low attendance + No scholarship,50.0,9,105,10,2,Intermediate,No,Online,Yes,Yes
+S0910,0.529,Red,Low attendance + No scholarship,72.0,11,143,3,2,Intermediate,No,Online,No,No
+S0864,0.528,Red,Low attendance + No scholarship,65.0,10,140,3,1,Advance,No,Online,No,Yes
+S0960,0.527,Red,Low attendance + No scholarship,67.0,9,103,2,1,Intermediate,No,Offline,Yes,No
+S0579,0.525,Red,No scholarship + Online learning mode,85.0,14,136,4,5,Intermediate,No,Online,Yes,Yes
+S0813,0.523,Red,Low attendance + No scholarship,68.0,6,70,3,4,Intermediate,No,Offline,No,Yes
+S0775,0.523,Red,Low attendance + No scholarship,45.0,10,140,7,4,Advance,No,Offline,Yes,No
+S1016,0.522,Red,Low attendance + No scholarship,70.0,9,113,2,3,Intermediate,No,Online,No,Yes
+S1054,0.519,Red,Low attendance + No scholarship,50.0,9,95,8,3,Intermediate,No,Offline,No,Yes
+S0968,0.518,Red,Low attendance + No scholarship,68.0,8,88,3,2,Intermediate,No,Offline,No,Yes
+S0767,0.518,Red,Low attendance + No scholarship,68.0,11,136,3,1,Intermediate,No,Online,No,No
+S1171,0.516,Red,Low attendance + No scholarship,68.0,9,123,3,3,Intermediate,No,Offline,No,No
+S0922,0.515,Red,Low attendance + No scholarship,55.0,9,125,3,2,Advance,No,Offline,Yes,No
+S0489,0.511,Red,No scholarship + Low attendance,80.0,11,132,2,1,Intermediate,No,Offline,Yes,No
+S0710,0.508,Red,No scholarship + Low attendance,80.0,11,124,2,2,Intermediate,No,Offline,Yes,No
+S1094,0.507,Red,Low attendance + No scholarship,57.0,10,137,9,1,Intermediate,No,Online,No,Yes
+S0454,0.506,Red,No scholarship + Low attendance,80.0,10,106,3,2,Intermediate,No,Offline,Yes,No
+S1003,0.505,Red,Low attendance + No scholarship,31.0,6,139,5,2,Advance,No,Online,Yes,Yes
+S0812,0.502,Red,No scholarship + Online learning mode,90.0,9,23,6,2,Advance,No,Online,Yes,No
+S0526,0.502,Red,Low attendance + No scholarship,70.0,12,141,3,2,Intermediate,No,Offline,No,No
+S0945,0.5,Red,Lower English proficiency + Low attendance,80.0,11,109,4,2,Basic,Yes,Online,No,No
+S1096,0.5,Red,Low attendance + No scholarship,50.0,9,139,2,1,Advance,No,Offline,No,Yes
+S0949,0.496,Red,Low attendance + No scholarship,60.0,7,97,4,2,Intermediate,No,Offline,Yes,Yes
+S0165,0.495,Red,No scholarship + Low attendance,80.0,12,136,2,3,Advance,No,Online,Yes,Yes
+S0113,0.495,Red,No scholarship + Lower English proficiency,92.0,9,86,3,2,Basic,No,Offline,Yes,Yes
+S0985,0.494,Red,Low attendance + No scholarship,76.0,11,144,2,1,Intermediate,No,Offline,No,No
+S0670,0.492,Red,Low attendance + No scholarship,70.0,11,123,4,2,Intermediate,No,Offline,Yes,No
+S0553,0.492,Red,Low attendance + Lower English proficiency,50.0,9,90,10,5,Basic,Yes,Offline,No,Yes
+S0932,0.492,Red,Low attendance + No scholarship,70.0,7,66,5,1,Advance,No,Online,Yes,No
+S0211,0.491,Red,Low attendance + No scholarship,52.0,4,37,6,1,Basic,No,Offline,Yes,No
+S1008,0.488,Red,Low attendance + No scholarship,56.0,11,144,3,2,Advance,No,Online,No,Yes
+S0104,0.487,Red,No scholarship + Lower English proficiency,88.0,13,112,6,2,Basic,No,Offline,Yes,Yes
+S1024,0.48,Red,No scholarship + Low attendance,80.0,6,16,4,4,Intermediate,No,Offline,Yes,No
+S1106,0.48,Red,Low attendance + No scholarship,45.0,9,117,3,2,Advance,No,Offline,No,No
+S0902,0.476,Red,No scholarship + Lower English proficiency,90.0,9,60,6,5,Basic,No,Offline,No,No
+S1004,0.476,Red,Low attendance + No scholarship,60.0,8,117,6,3,Intermediate,No,Offline,Yes,No
+S1132,0.475,Red,Low attendance + No scholarship,67.0,7,95,3,2,Intermediate,No,Online,Yes,No
+S0277,0.474,Red,No scholarship + Low attendance,80.0,14,130,3,2,Intermediate,No,Offline,Yes,Yes
+S0466,0.467,Red,No scholarship + Online learning mode,90.0,12,90,2,8,Intermediate,No,Online,Yes,Yes
+S1030,0.466,Red,No scholarship + Low attendance,77.0,9,124,3,2,Intermediate,No,Online,Yes,Yes
+S0808,0.465,Red,Low attendance + No scholarship,76.0,9,70,3,1,Intermediate,No,Offline,Yes,No
+S0693,0.464,Red,No scholarship + Lower English proficiency,90.0,9,89,2,2,Basic,No,Offline,Yes,Yes
+S0911,0.463,Red,Low attendance + No scholarship,42.0,6,97,3,2,Advance,No,Offline,Yes,No
+S0496,0.461,Red,Low attendance + Lower English proficiency,10.0,2,14,2,3,Basic,Yes,Offline,No,No
+S1041,0.461,Red,Low attendance + No scholarship,73.0,10,135,3,2,Basic,No,Online,No,Yes
+S0430,0.46,Red,Low attendance + No scholarship,70.0,8,70,3,0,Intermediate,No,Offline,No,No
+S0235,0.46,Red,No scholarship + Low attendance,80.0,11,123,1,2,Intermediate,No,Online,No,No
+S0837,0.459,Red,Low attendance + No scholarship,70.0,10,133,3,3,Basic,No,Offline,No,No
+S0676,0.458,Red,No scholarship + Online learning mode,91.0,11,117,1,3,Intermediate,No,Online,Yes,No
+S0856,0.455,Red,Low attendance + No scholarship,56.0,9,130,3,2,Advance,No,Offline,Yes,Yes
+S0765,0.453,Red,No scholarship + Low attendance,78.0,9,97,2,4,Intermediate,No,Offline,No,Yes
+S0894,0.45,Red,Low attendance + No scholarship,68.0,10,137,1,3,Intermediate,No,Offline,No,No
+S1074,0.449,Red,Low attendance + No scholarship,70.0,11,137,3,3,Intermediate,No,Online,No,No
+S0658,0.446,Red,Low attendance + No scholarship,60.0,7,58,2,1,Intermediate,No,Offline,Yes,No
+S0563,0.446,Red,No scholarship + Lower English proficiency,99.0,13,115,5,5,Basic,No,Offline,No,Yes
+S0807,0.445,Red,Low attendance + No scholarship,56.0,6,80,2,2,Intermediate,No,Offline,Yes,Yes
+S0829,0.445,Red,Low attendance + No scholarship,50.0,7,97,5,5,Intermediate,No,Offline,Yes,No
+S0363,0.444,Red,Low attendance + No scholarship,60.0,2,11,4,5,Basic,No,Offline,Yes,Yes
+S0875,0.444,Red,No scholarship + Lower English proficiency,100.0,11,143,1,3,Basic,No,Offline,No,No
+S1044,0.443,Red,No scholarship + Low attendance,80.0,11,139,3,2,Intermediate,No,Offline,No,No
+S0681,0.441,Red,No scholarship + Lower English proficiency,98.0,13,133,2,3,Basic,No,Online,Yes,Yes
+S1050,0.44,Red,No scholarship + Lower English proficiency,80.0,7,90,6,2,Basic,No,Offline,No,Yes
+S0299,0.439,Red,No scholarship + Low attendance,80.0,14,130,2,1,Advance,No,Offline,Yes,Yes
+S1000,0.433,Red,Low attendance + No scholarship,71.0,8,109,7,3,Intermediate,No,Online,No,No
+S1087,0.432,Red,Low attendance + No scholarship,70.0,9,105,6,3,Intermediate,No,Offline,Yes,No
+S1187,0.432,Red,Low attendance,35.0,11,143,3,5,Intermediate,Yes,Offline,Yes,Yes
+S0694,0.432,Red,No scholarship + Online learning mode,100.0,11,122,2,2,Intermediate,No,Online,Yes,No
+S0784,0.431,Red,No scholarship + Low attendance,80.0,7,97,6,4,Intermediate,No,Offline,No,No
+S1055,0.43,Red,No scholarship + Online learning mode,88.0,10,125,7,3,Intermediate,No,Online,No,No
+S0789,0.43,Red,Low attendance + No scholarship,75.0,11,143,3,3,Advance,No,Offline,Yes,Yes
+S0601,0.429,Red,Low attendance + No scholarship,70.0,14,111,8,2,Advance,No,Offline,Yes,Yes
+S1116,0.429,Red,Low attendance + No scholarship,30.0,7,105,4,6,Advance,No,Online,Yes,Yes
+S0608,0.429,Red,Low attendance + No scholarship,50.0,3,25,3,5,Basic,No,Offline,No,Yes
+S0801,0.426,Red,No scholarship + Lower English proficiency,100.0,9,100,3,3,Basic,No,Online,No,No
+S0075,0.425,Red,No scholarship + Low attendance,80.0,12,136,3,2,Intermediate,No,Offline,Yes,Yes
+S0989,0.425,Red,No scholarship + Online learning mode,90.0,11,132,3,1,Intermediate,No,Online,No,No
+S0832,0.424,Red,No scholarship + Low attendance,77.0,11,144,6,2,Basic,No,Offline,Yes,Yes
+S0898,0.422,Red,No scholarship + Lower English proficiency,86.0,11,145,5,2,Basic,No,Offline,No,No
+S0240,0.421,Red,No scholarship + No university transport,85.0,8,83,3,2,Intermediate,No,Offline,Yes,No
+S0678,0.421,Red,No scholarship + Low attendance,80.0,11,96,3,4,Advance,No,Online,Yes,Yes
+S0431,0.419,Red,No scholarship + Online learning mode,90.0,13,140,1,2,Intermediate,No,Online,Yes,No
+S0442,0.418,Red,No scholarship + Few study hours,90.0,11,124,1,1,Intermediate,No,Offline,No,No
+S0811,0.418,Red,Low attendance + No scholarship,63.0,3,35,4,4,Intermediate,No,Online,No,No
+S1164,0.418,Red,Low attendance + No scholarship,67.0,11,143,3,5,Advance,No,Offline,Yes,No
+S0191,0.418,Red,No scholarship + Online learning mode,95.0,14,122,5,4,Advance,No,Online,Yes,Yes
+S0830,0.417,Red,No scholarship + Low attendance,80.0,10,126,3,6,Advance,No,Offline,No,No
+S0874,0.416,Red,No scholarship + Low attendance,83.0,10,136,3,1,Intermediate,No,Offline,Yes,Yes
+S0642,0.416,Red,No scholarship + Low attendance,80.0,8,90,7,4,Intermediate,No,Online,No,No
+S1047,0.416,Red,No scholarship + Low attendance,78.0,10,139,2,3,Basic,No,Online,No,Yes
+S1159,0.416,Red,Low attendance + No scholarship,65.0,8,105,4,4,Intermediate,No,Offline,Yes,Yes
+S0746,0.409,Red,No scholarship + Online learning mode,85.0,8,78,3,4,Intermediate,No,Online,No,No
+S0241,0.409,Red,No scholarship + No university transport,90.0,12,118,1,5,Intermediate,No,Offline,Yes,No
+S0876,0.409,Red,No scholarship + Lower English proficiency,100.0,11,141,5,2,Basic,No,Offline,No,No
+S0227,0.408,Red,Low attendance + No scholarship,65.0,11,120,2,1,Advance,No,Offline,Yes,No
+S0752,0.408,Red,Low attendance + No scholarship,70.0,10,116,8,2,Intermediate,No,Offline,Yes,No
+S0056,0.406,Red,No scholarship + Lower English proficiency,80.0,2,11,7,1,Basic,No,Online,Yes,No
+S1162,0.406,Red,Low attendance + No scholarship,53.0,6,83,3,1,Intermediate,No,Offline,No,Yes
+S0814,0.405,Red,No scholarship + Low attendance,80.0,10,116,4,6,Intermediate,No,Offline,No,No
+S0782,0.404,Red,No scholarship + No university transport,90.0,7,32,3,2,Intermediate,No,Offline,No,Yes
+S0145,0.404,Red,Low attendance + No scholarship,70.0,7,77,5,1,Basic,No,Offline,Yes,Yes
+S0926,0.401,Red,No scholarship + Online learning mode,89.0,10,132,2,2,Intermediate,No,Online,No,No
+S0682,0.4,Red,No scholarship + Lower English proficiency,90.0,10,88,1,4,Basic,No,Offline,Yes,No
+S0585,0.4,Red,No scholarship + Online learning mode,90.0,13,130,2,2,Advance,No,Online,No,No
+S0652,0.399,Amber,No scholarship + High social-media time,90.0,15,140,1,4,Intermediate,No,Offline,Yes,Yes
+S0109,0.399,Amber,No scholarship + Online learning mode,88.0,10,113,1,9,Intermediate,No,Online,No,Yes
+S0858,0.399,Amber,No scholarship + Lower English proficiency,100.0,11,144,7,2,Basic,No,Offline,No,No
+S0980,0.398,Amber,No scholarship + Few study hours,87.0,9,123,3,1,Intermediate,No,Offline,Yes,Yes
+S0131,0.398,Amber,Low attendance + No scholarship,75.0,11,126,2,1,Advance,No,Offline,Yes,No
+S0126,0.398,Amber,No scholarship + Online learning mode,99.0,9,100,1,3,Intermediate,No,Online,No,No
+S0170,0.397,Amber,No scholarship + Online learning mode,90.0,8,88,2,4,Intermediate,No,Online,No,No
+S0158,0.397,Amber,No scholarship + Lower English proficiency,80.0,9,77,5,3,Basic,No,Offline,No,Yes
+S0748,0.395,Amber,No scholarship + Online learning mode,100.0,10,116,2,5,Intermediate,No,Online,Yes,No
+S1194,0.394,Amber,No scholarship + Online learning mode,100.0,11,88,5,3,Intermediate,No,Online,No,No
+S0090,0.394,Amber,No scholarship + Lower English proficiency,80.0,8,88,2,2,Basic,No,Offline,No,No
+S0669,0.394,Amber,No scholarship + Few study hours,90.0,8,90,2,1,Intermediate,No,Offline,No,Yes
+S0950,0.392,Amber,Low attendance + No scholarship,75.0,8,117,7,5,Advance,No,Online,No,No
+S0066,0.391,Amber,Low attendance + No university transport,70.0,12,132,4,2,Intermediate,Yes,Offline,Yes,No
+S1028,0.39,Amber,No scholarship + Lower English proficiency,100.0,10,140,3,1,Basic,No,Online,No,Yes
+S0565,0.389,Amber,No scholarship + Low attendance,80.0,8,64,4,1,Intermediate,No,Offline,No,No
+S0935,0.387,Amber,No scholarship + Lower English proficiency,100.0,9,108,3,3,Basic,No,Offline,Yes,No
+S0128,0.387,Amber,Low attendance + No scholarship,73.0,11,126,1,2,Intermediate,No,Offline,Yes,No
+S1051,0.384,Amber,Low attendance + No scholarship,70.0,5,71,5,4,Basic,No,Offline,Yes,No
+S0231,0.383,Amber,Low attendance + Few study hours,70.0,10,117,1,1,Intermediate,Yes,Offline,Yes,No
+S1010,0.381,Amber,No scholarship + Lower English proficiency,86.0,10,135,2,2,Basic,No,Offline,Yes,Yes
+S0137,0.379,Amber,Lower English proficiency + Low attendance,80.0,11,126,3,1,Basic,Yes,Online,No,No
+S0969,0.378,Amber,No scholarship + Online learning mode,90.0,8,77,6,5,Advance,No,Online,No,No
+S0761,0.378,Amber,No scholarship + Low attendance,77.0,9,133,11,6,Intermediate,No,Online,No,No
+S0593,0.377,Amber,No scholarship + No university transport,90.0,11,130,1,6,Intermediate,No,Offline,No,No
+S0760,0.376,Amber,No scholarship + Online learning mode,100.0,11,136,3,2,Intermediate,No,Online,Yes,No
+S0850,0.376,Amber,No scholarship + No university transport,100.0,11,143,3,3,Intermediate,No,Offline,No,No
+S0195,0.374,Amber,No scholarship + No university transport,100.0,11,78,3,3,Intermediate,No,Offline,No,No
+S1178,0.374,Amber,Low attendance + No scholarship,66.0,6,78,3,3,Basic,No,Offline,No,Yes
+S0506,0.373,Amber,No scholarship,99.0,12,100,4,5,Intermediate,No,Offline,No,No
+S1152,0.372,Amber,No scholarship + Low attendance,81.0,11,143,3,4,Advance,No,Online,No,No
+S0179,0.371,Amber,No scholarship + Online learning mode,100.0,8,88,2,6,Intermediate,No,Online,No,No
+S0495,0.371,Amber,Low attendance + Lower English proficiency,50.0,3,23,3,4,Basic,Yes,Offline,No,No
+S0776,0.371,Amber,No scholarship + Lower English proficiency,100.0,10,136,2,2,Basic,No,Offline,No,No
+S0076,0.37,Amber,No scholarship + Online learning mode,100.0,8,88,1,3,Intermediate,No,Online,No,No
+S1177,0.37,Amber,Low attendance + No scholarship,63.0,6,78,2,3,Basic,No,Offline,Yes,No
+S0484,0.37,Amber,No scholarship + Lower English proficiency,100.0,5,49,3,0,Basic,No,Online,No,No
+S0538,0.369,Amber,Low attendance + Lower English proficiency,50.0,3,23,3,5,Basic,Yes,Offline,No,No
+S0440,0.369,Amber,No scholarship + No university transport,90.0,11,111,2,6,Intermediate,No,Offline,Yes,Yes
+S0140,0.368,Amber,No scholarship + Lower English proficiency,87.0,5,39,1,2,Basic,No,Offline,Yes,Yes
+S1122,0.368,Amber,Low attendance + No scholarship,56.0,7,107,2,1,Intermediate,No,Offline,No,Yes
+S0970,0.367,Amber,No scholarship + No university transport,87.0,9,101,2,2,Intermediate,No,Offline,No,No
+S0160,0.366,Amber,No scholarship + Low attendance,80.0,10,105,3,5,Intermediate,No,Offline,Yes,Yes
+S0271,0.366,Amber,No scholarship + Online learning mode,90.0,6,65,2,1,Intermediate,No,Online,No,Yes
+S0998,0.366,Amber,No scholarship + Low attendance,78.0,5,71,5,2,Intermediate,No,Offline,Yes,No
+S0129,0.365,Amber,No scholarship + Online learning mode,100.0,11,126,1,2,Intermediate,No,Online,Yes,Yes
+S1149,0.363,Amber,No scholarship + Low attendance,79.0,10,139,3,2,Intermediate,No,Offline,No,Yes
+S0554,0.361,Amber,No scholarship,90.0,9,93,4,4,Intermediate,No,Offline,Yes,No
+S0868,0.359,Amber,Low attendance + No scholarship,62.0,6,77,3,3,Advance,No,Offline,No,Yes
+S0971,0.359,Amber,No scholarship + No university transport,86.0,9,119,3,2,Advance,No,Offline,Yes,No
+S0885,0.359,Amber,No scholarship + No university transport,100.0,11,143,2,3,Intermediate,No,Offline,Yes,No
+S0100,0.359,Amber,No scholarship + Online learning mode,85.0,11,126,1,3,Intermediate,No,Online,Yes,Yes
+S0117,0.359,Amber,Low attendance + No university transport,70.0,11,91,2,2,Intermediate,Yes,Offline,No,Yes
+S0726,0.358,Amber,No scholarship + No university transport,90.0,11,130,6,2,Intermediate,No,Offline,Yes,No
+S0631,0.356,Amber,No scholarship + Lower English proficiency,95.0,8,85,2,1,Basic,No,Offline,Yes,No
+S0239,0.356,Amber,No scholarship + Lower English proficiency,90.0,7,70,1,1,Basic,No,Offline,Yes,Yes
+S1066,0.354,Amber,Low attendance + No scholarship,70.0,9,128,8,3,Intermediate,No,Online,No,No
+S1174,0.353,Amber,Low attendance + No scholarship,76.0,9,103,3,4,Intermediate,No,Offline,Yes,Yes
+S0224,0.351,Amber,No scholarship + No university transport,97.0,12,136,1,4,Intermediate,No,Offline,No,No
+S0716,0.35,Amber,No scholarship + Online learning mode,90.0,11,126,5,3,Intermediate,No,Online,No,No
+S0916,0.35,Amber,No scholarship + Low attendance,79.0,10,139,3,2,Intermediate,No,Offline,Yes,Yes
+S1063,0.349,Amber,No scholarship + Lower English proficiency,100.0,5,14,1,2,Basic,No,Offline,Yes,Yes
+S1142,0.349,Amber,No scholarship + Lower English proficiency,100.0,9,101,3,2,Basic,No,Offline,No,Yes
+S1029,0.349,Amber,No scholarship + Online learning mode,100.0,10,119,9,3,Advance,No,Online,No,No
+S0199,0.348,Amber,No scholarship + Low attendance,80.0,9,84,1,3,Intermediate,No,Offline,No,No
+S1166,0.348,Amber,Low attendance + No scholarship,54.0,5,68,2,2,Advance,No,Offline,No,No
+S0944,0.347,Amber,No scholarship + Lower English proficiency,88.0,8,99,7,4,Basic,No,Offline,No,No
+S0913,0.347,Amber,Low attendance + No university transport,47.0,5,68,2,2,Intermediate,Yes,Offline,No,Yes
+S0816,0.346,Amber,No scholarship + Lower English proficiency,100.0,10,116,2,3,Basic,No,Offline,Yes,No
+S0727,0.346,Amber,No scholarship + No university transport,99.0,11,130,2,2,Intermediate,No,Offline,No,Yes
+S1006,0.345,Amber,No scholarship + No university transport,100.0,11,143,2,2,Intermediate,No,Offline,Yes,No
+S0378,0.345,Amber,Low attendance + Online learning mode,75.0,7,79,1,1,Intermediate,Yes,Online,No,Yes
+S0641,0.345,Amber,No scholarship + High social-media time,90.0,11,126,2,10,Intermediate,No,Offline,No,No
+S0915,0.345,Amber,No scholarship + No university transport,86.0,11,144,2,4,Intermediate,No,Offline,No,Yes
+S1179,0.344,Amber,No scholarship + Lower English proficiency,100.0,11,143,3,2,Basic,No,Offline,Yes,No
+S0532,0.344,Amber,Low attendance + Lower English proficiency,70.0,11,116,2,2,Basic,Yes,Offline,No,No
+S0384,0.344,Amber,No scholarship + Low attendance,85.0,11,120,2,3,Intermediate,No,Offline,Yes,No
+S0202,0.343,Amber,No scholarship + Online learning mode,90.0,8,75,4,8,Intermediate,No,Online,Yes,No
+S0688,0.343,Amber,No scholarship + Few study hours,86.0,11,125,6,1,Intermediate,No,Offline,No,No
+S0990,0.342,Amber,No scholarship + Low attendance,77.0,10,132,5,3,Intermediate,No,Offline,No,No
+S0843,0.342,Amber,Low attendance + Lower English proficiency,79.0,11,143,1,2,Basic,Yes,Offline,No,No
+S0643,0.342,Amber,No scholarship + Lower English proficiency,88.0,8,70,3,3,Basic,No,Offline,No,No
+S1081,0.342,Amber,Low attendance + No scholarship,70.0,9,131,7,3,Advance,No,Online,Yes,No
+S0001,0.341,Amber,No university transport,90.0,12,75,5,3,Intermediate,Yes,Offline,Yes,No
+S1090,0.341,Amber,No scholarship + High social-media time,100.0,11,143,1,3,Intermediate,No,Offline,No,No
+S0927,0.34,Amber,Low attendance + No scholarship,68.0,11,135,3,5,Intermediate,No,Offline,Yes,Yes
+S1131,0.34,Amber,No scholarship + Online learning mode,100.0,11,143,3,3,Intermediate,No,Online,Yes,No
+S1192,0.339,Amber,No scholarship + Lower English proficiency,100.0,9,100,2,3,Basic,No,Offline,No,Yes
+S0184,0.339,Amber,No scholarship + No university transport,90.0,4,34,2,3,Intermediate,No,Offline,No,No
+S0461,0.338,Amber,No scholarship + Lower English proficiency,88.0,2,11,1,5,Basic,No,Offline,Yes,No
+S0684,0.337,Amber,No scholarship + No university transport,95.0,14,136,5,3,Advance,No,Offline,No,Yes
+S0787,0.337,Amber,No scholarship + No university transport,100.0,10,135,2,2,Intermediate,No,Offline,Yes,Yes
+S1057,0.336,Amber,Low attendance + No scholarship,75.0,10,126,9,3,Intermediate,No,Offline,No,No
+S1049,0.336,Amber,No scholarship + No university transport,100.0,9,103,2,2,Intermediate,No,Offline,No,Yes
+S0984,0.336,Amber,Low attendance + No scholarship,70.0,4,46,9,3,Basic,No,Online,No,No
+S0204,0.335,Amber,No scholarship + Online learning mode,100.0,11,131,2,6,Intermediate,No,Online,Yes,No
+S0279,0.335,Amber,No scholarship + High social-media time,87.0,11,115,1,2,Intermediate,No,Offline,No,No
+S0247,0.335,Amber,No scholarship + Online learning mode,90.0,10,104,1,4,Intermediate,No,Online,Yes,No
+S1128,0.333,Amber,No scholarship + Low attendance,77.0,11,145,6,4,Intermediate,No,Online,Yes,No
+S0223,0.333,Amber,Online learning mode + No university transport,90.0,11,120,3,2,Intermediate,Yes,Online,Yes,No
+S1083,0.333,Amber,No scholarship + Low attendance,80.0,11,143,11,5,Intermediate,No,Online,No,No
+S0213,0.333,Amber,No scholarship,98.0,11,110,6,6,Intermediate,No,Offline,Yes,No
+S0362,0.333,Amber,No scholarship + High social-media time,90.0,12,125,2,7,Intermediate,No,Offline,Yes,Yes
+S1148,0.332,Amber,No scholarship,89.0,11,143,3,5,Intermediate,No,Offline,No,Yes
+S0163,0.332,Amber,No scholarship + No university transport,97.0,12,136,2,4,Intermediate,No,Offline,Yes,No
+S0485,0.331,Amber,No scholarship + Lower English proficiency,95.0,2,12,1,2,Basic,No,Offline,Yes,No
+S1053,0.331,Amber,No scholarship + Lower English proficiency,100.0,7,70,3,6,Basic,No,Offline,Yes,No
+S0791,0.331,Amber,No scholarship + Online learning mode,100.0,11,136,2,2,Advance,No,Online,No,Yes
+S1073,0.331,Amber,Low attendance + Online learning mode,43.0,11,144,3,2,Advance,Yes,Online,No,Yes
+S0867,0.331,Amber,No scholarship + No university transport,89.0,10,134,2,2,Intermediate,No,Offline,No,Yes
+S0559,0.33,Amber,No scholarship + No university transport,88.0,8,85,3,4,Intermediate,No,Offline,Yes,No
+S0161,0.33,Amber,No scholarship + Lower English proficiency,90.0,10,113,2,3,Basic,No,Online,Yes,No
+S0293,0.33,Amber,No scholarship + Online learning mode,90.0,4,34,3,1,Intermediate,No,Online,No,No
+S0967,0.329,Amber,No scholarship + No university transport,89.0,9,113,2,2,Intermediate,No,Offline,Yes,Yes
+S0535,0.329,Amber,No scholarship + Online learning mode,90.0,11,126,1,2,Intermediate,No,Online,No,No
+S0817,0.329,Amber,No scholarship + Online learning mode,100.0,9,100,3,2,Advance,No,Online,No,Yes
+S1098,0.328,Amber,Low attendance + No scholarship,70.0,9,118,8,1,Intermediate,No,Offline,No,No
+S0938,0.328,Amber,No scholarship + Low attendance,79.0,11,143,2,4,Advance,No,Offline,Yes,No
+S0510,0.328,Amber,No scholarship + Lower English proficiency,90.0,2,11,2,2,Basic,No,Online,Yes,No
+S1027,0.327,Amber,No scholarship + Low attendance,77.0,11,144,8,5,Intermediate,No,Offline,Yes,No
+S0063,0.326,Amber,No scholarship + Few study hours,100.0,11,126,2,1,Intermediate,No,Offline,No,No
+S0743,0.326,Amber,Low attendance + No scholarship,50.0,3,23,4,4,Intermediate,No,Offline,No,No
+S0410,0.325,Amber,No scholarship + Online learning mode,98.0,5,54,1,2,Intermediate,No,Online,No,No
+S0996,0.325,Amber,Lower English proficiency + No university transport,90.0,10,125,3,2,Basic,Yes,Offline,No,No
+S0338,0.323,Amber,No scholarship + Low attendance,80.0,9,105,2,4,Advance,No,Offline,Yes,No
+S0527,0.323,Amber,Low attendance,37.0,3,27,4,3,Intermediate,Yes,Offline,Yes,No
+S0256,0.323,Amber,Low attendance + Online learning mode,70.0,11,120,5,4,Advance,Yes,Online,No,Yes
+S0134,0.323,Amber,No scholarship + No university transport,99.0,9,100,2,3,Intermediate,No,Offline,No,No
+S1056,0.322,Amber,No scholarship + Low attendance,80.0,10,99,6,5,Advance,No,Offline,Yes,No
+S0086,0.322,Amber,No scholarship + Online learning mode,99.0,8,88,1,1,Intermediate,No,Online,Yes,No
+S0138,0.322,Amber,No scholarship + Lower English proficiency,90.0,6,65,5,2,Basic,No,Online,No,Yes
+S0020,0.322,Amber,Low attendance + No scholarship,70.0,4,36,2,3,Intermediate,No,Online,Yes,Yes
+S0827,0.321,Amber,Low attendance + Lower English proficiency,78.0,11,143,1,5,Basic,Yes,Offline,Yes,Yes
+S1061,0.32,Amber,No scholarship + Online learning mode,95.0,5,18,1,2,Intermediate,No,Online,Yes,No
+S0965,0.32,Amber,No scholarship + No university transport,85.0,5,65,2,4,Advance,No,Offline,No,No
+S0882,0.319,Amber,No scholarship + Lower English proficiency,100.0,11,143,3,2,Basic,No,Offline,No,Yes
+S0557,0.319,Amber,No scholarship + No university transport,90.0,8,86,1,2,Intermediate,No,Offline,Yes,No
+S0857,0.318,Amber,No scholarship + Lower English proficiency,100.0,10,137,1,2,Basic,No,Offline,No,No
+S0164,0.318,Amber,No scholarship + Lower English proficiency,95.0,9,103,3,3,Basic,No,Offline,Yes,No
+S0371,0.318,Amber,No scholarship + No university transport,95.0,11,120,4,3,Intermediate,No,Offline,Yes,No
+S0458,0.318,Amber,No scholarship + Few study hours,96.0,5,44,1,1,Intermediate,No,Offline,Yes,No
+S0685,0.317,Amber,Low attendance + No university transport,70.0,10,112,6,2,Intermediate,Yes,Offline,Yes,No
+S1133,0.317,Amber,No scholarship + Online learning mode,100.0,10,134,1,2,Intermediate,No,Online,No,No
+S0842,0.317,Amber,No scholarship + Low attendance,80.0,8,103,2,4,Advance,No,Online,No,No
+S1064,0.317,Amber,No scholarship + Lower English proficiency,90.0,5,40,4,6,Basic,No,Offline,No,No
+S1172,0.317,Amber,Low attendance + No scholarship,60.0,6,89,9,5,Intermediate,No,Online,No,Yes
+S0175,0.317,Amber,No scholarship + Lower English proficiency,80.0,5,50,3,2,Basic,No,Offline,No,No
+S0620,0.317,Amber,No scholarship + Lower English proficiency,90.0,2,12,3,2,Basic,No,Offline,No,No
+S0839,0.316,Amber,Low attendance + No scholarship,60.0,3,77,3,2,Intermediate,No,Online,No,No
+S0908,0.316,Amber,No scholarship + Online learning mode,90.0,7,100,5,4,Intermediate,No,Online,Yes,No
+S0280,0.314,Amber,Low attendance + Lower English proficiency,50.0,3,26,3,1,Basic,Yes,Offline,Yes,Yes
+S0095,0.313,Amber,No scholarship + Lower English proficiency,90.0,10,113,4,2,Basic,No,Online,No,Yes
+S1018,0.313,Amber,No scholarship + No university transport,100.0,11,144,3,3,Intermediate,No,Offline,No,Yes
+S1011,0.312,Amber,No scholarship + No university transport,100.0,10,85,5,3,Advance,No,Offline,No,No
+S1012,0.311,Amber,Low attendance + No scholarship,67.0,9,130,1,3,Advance,No,Offline,No,Yes
+S0157,0.311,Amber,No scholarship + No university transport,100.0,8,88,1,4,Intermediate,No,Offline,No,No
+S1189,0.311,Amber,No scholarship + Few study hours,87.0,11,143,3,2,Advance,No,Offline,No,Yes
+S0133,0.309,Amber,No scholarship + No university transport,88.0,9,100,2,6,Intermediate,No,Offline,Yes,No
+S0656,0.309,Amber,No scholarship + No university transport,95.0,11,125,2,2,Intermediate,No,Offline,Yes,No
+S0453,0.308,Amber,No scholarship + No university transport,95.0,10,106,3,4,Intermediate,No,Offline,Yes,No
+S0953,0.308,Amber,Low attendance + No university transport,50.0,6,68,4,5,Advance,Yes,Offline,No,No
+S0154,0.307,Amber,No scholarship,100.0,11,126,3,3,Intermediate,No,Offline,Yes,No
+S0153,0.306,Amber,No scholarship,90.0,11,114,3,5,Intermediate,No,Offline,Yes,No
+S0758,0.306,Amber,No scholarship + No university transport,87.0,9,116,3,3,Intermediate,No,Offline,No,Yes
+S0470,0.306,Amber,No scholarship + Lower English proficiency,97.0,2,11,2,3,Basic,No,Offline,Yes,No
+S0721,0.306,Amber,No scholarship + No university transport,100.0,10,112,3,3,Intermediate,No,Offline,Yes,No
+S0099,0.306,Amber,No scholarship + No university transport,98.0,5,50,1,3,Intermediate,No,Offline,No,No
+S0914,0.306,Amber,No scholarship + Online learning mode,90.0,10,123,8,3,Advance,No,Online,Yes,Yes
+S0958,0.305,Amber,No scholarship + Online learning mode,86.0,9,120,2,5,Advance,No,Online,Yes,No
+S0421,0.305,Amber,No scholarship + High social-media time,99.0,9,101,1,3,Intermediate,No,Offline,No,No
+S0879,0.305,Amber,No scholarship + Low attendance,77.0,5,58,2,4,Intermediate,No,Online,Yes,Yes
+S0233,0.305,Amber,No scholarship + No university transport,95.0,11,125,4,4,Intermediate,No,Offline,Yes,No
+S0689,0.304,Amber,No scholarship + Lower English proficiency,99.0,10,105,2,3,Basic,No,Online,Yes,No
+S0872,0.303,Amber,No scholarship + No university transport,86.0,10,140,2,2,Intermediate,No,Offline,No,Yes
+S0323,0.3,Amber,Low attendance + Few study hours,70.0,8,90,4,1,Intermediate,Yes,Offline,No,No
+S0186,0.3,Amber,Lower English proficiency + Few study hours,100.0,11,102,1,1,Basic,Yes,Offline,Yes,No
+S0972,0.299,Amber,No scholarship + Low attendance,80.0,6,59,2,4,Intermediate,No,Offline,No,No
+S0123,0.299,Amber,No scholarship + No university transport,95.0,5,50,1,4,Intermediate,No,Offline,No,Yes
+S0321,0.299,Amber,No scholarship + Low attendance,80.0,9,90,2,3,Intermediate,No,Offline,Yes,No
+S0610,0.299,Amber,No scholarship + No university transport,99.0,11,118,3,5,Intermediate,No,Offline,Yes,No
+S1022,0.298,Amber,No scholarship + Lower English proficiency,98.0,8,76,8,2,Basic,No,Offline,No,No
+S0718,0.298,Amber,No scholarship + Lower English proficiency,90.0,9,101,1,2,Basic,No,Offline,No,No
+S1129,0.298,Amber,No scholarship + Lower English proficiency,86.0,7,98,6,3,Basic,No,Online,No,No
+S0862,0.298,Amber,Low attendance + No scholarship,70.0,5,75,7,3,Intermediate,No,Offline,No,No
+S0772,0.297,Amber,No scholarship + Low attendance,78.0,5,80,4,1,Basic,No,Offline,Yes,No
+S0587,0.297,Amber,No scholarship + Online learning mode,97.0,8,95,2,3,Intermediate,No,Online,Yes,No
+S0907,0.297,Amber,No scholarship + Lower English proficiency,100.0,11,143,3,3,Basic,No,Offline,Yes,No
+S0288,0.297,Amber,No scholarship + Lower English proficiency,98.0,11,107,2,6,Basic,No,Offline,No,No
+S0711,0.297,Amber,No scholarship + No university transport,99.0,8,89,3,5,Intermediate,No,Offline,Yes,No
+S1089,0.297,Amber,No scholarship + Online learning mode,100.0,11,136,2,3,Intermediate,No,Online,No,Yes
+S0572,0.296,Amber,Low attendance + No university transport,80.0,10,90,1,3,Intermediate,Yes,Offline,Yes,No
+S0660,0.296,Amber,No scholarship + Low attendance,80.0,7,80,2,2,Intermediate,No,Offline,No,No
+S0993,0.295,Amber,No scholarship + No university transport,100.0,9,124,3,2,Intermediate,No,Offline,Yes,No
+S0209,0.295,Amber,No scholarship + No university transport,85.0,8,80,4,2,Intermediate,No,Offline,Yes,No
+S0422,0.295,Amber,No scholarship + Lower English proficiency,95.0,2,11,2,4,Basic,No,Online,Yes,Yes
+S0143,0.295,Amber,No scholarship + Online learning mode,99.0,11,126,4,8,Intermediate,No,Online,Yes,No
+S0805,0.295,Amber,No scholarship + Online learning mode,99.0,10,123,6,3,Intermediate,No,Online,No,Yes
+S0328,0.294,Amber,No scholarship + Low attendance,80.0,7,90,5,2,Intermediate,No,Online,Yes,No
+S0966,0.294,Amber,No scholarship + Online learning mode,100.0,7,66,6,2,Intermediate,No,Online,Yes,No
+S0586,0.294,Amber,No scholarship + No university transport,87.0,8,100,3,2,Intermediate,No,Offline,No,No
+S0982,0.294,Amber,No scholarship + No university transport,100.0,8,95,3,3,Intermediate,No,Offline,No,No
+S0747,0.293,Amber,No scholarship + Lower English proficiency,100.0,6,50,2,1,Basic,No,Offline,Yes,Yes
+S0666,0.293,Amber,No scholarship + Few study hours,98.0,7,75,2,0,Intermediate,No,Offline,No,No
+S0452,0.293,Amber,Low attendance + Online learning mode,80.0,4,49,2,1,Intermediate,Yes,Online,Yes,No
+S0406,0.292,Amber,No scholarship + Lower English proficiency,85.0,2,11,4,1,Basic,No,Offline,No,No
+S0668,0.292,Amber,No scholarship + Few study hours,90.0,11,123,4,2,Advance,No,Offline,Yes,No
+S1084,0.291,Amber,Low attendance + Online learning mode,55.0,7,101,4,5,Intermediate,Yes,Online,Yes,No
+S0785,0.29,Amber,No scholarship + Lower English proficiency,100.0,7,103,7,3,Basic,No,Online,No,Yes
+S0300,0.29,Amber,No scholarship + Lower English proficiency,85.0,3,25,3,2,Basic,No,Online,No,No
+S0287,0.29,Amber,No scholarship + Lower English proficiency,88.0,3,25,1,2,Basic,No,Online,Yes,Yes
+S0663,0.289,Amber,No scholarship + Lower English proficiency,100.0,4,24,1,1,Basic,No,Offline,Yes,No
+S0537,0.288,Amber,No scholarship + High social-media time,90.0,8,71,1,4,Intermediate,No,Offline,No,Yes
+S0190,0.288,Amber,High social-media time,100.0,15,136,1,6,Intermediate,Yes,Offline,Yes,No
+S1167,0.288,Amber,No scholarship + Low attendance,87.0,11,143,3,3,Intermediate,No,Offline,No,Yes
+S1023,0.288,Amber,No scholarship + Lower English proficiency,90.0,5,84,7,2,Basic,No,Offline,Yes,Yes
+S1043,0.288,Amber,No scholarship + No university transport,100.0,8,89,3,3,Intermediate,No,Offline,Yes,No
+S0929,0.288,Amber,No scholarship + Lower English proficiency,100.0,6,75,3,5,Basic,No,Online,No,Yes
+S0705,0.287,Amber,No scholarship + No university transport,95.0,10,123,3,4,Intermediate,No,Offline,No,No
+S0407,0.286,Amber,No scholarship + Lower English proficiency,98.0,2,11,1,6,Basic,No,Online,Yes,Yes
+S0923,0.286,Amber,No scholarship + No university transport,100.0,4,27,4,2,Intermediate,No,Offline,Yes,No
+S1002,0.286,Amber,Low attendance + No scholarship,70.0,4,56,7,5,Intermediate,No,Online,No,No
+S0307,0.285,Amber,No scholarship + Lower English proficiency,80.0,3,23,5,2,Basic,No,Offline,No,No
+S1156,0.284,Amber,No scholarship + Few study hours,100.0,11,144,5,1,Advance,No,Offline,Yes,No
+S0815,0.284,Amber,No scholarship + Few study hours,100.0,11,136,3,1,Intermediate,No,Offline,No,No
+S0329,0.284,Amber,No scholarship + Lower English proficiency,80.0,3,23,5,2,Basic,No,Offline,Yes,No
+S1138,0.283,Amber,No scholarship + Few study hours,100.0,10,132,2,2,Intermediate,No,Offline,No,Yes
+S0033,0.282,Amber,No scholarship + No university transport,90.0,2,11,2,5,Intermediate,No,Offline,No,No
+S0012,0.282,Amber,No scholarship + Lower English proficiency,90.0,4,35,2,3,Basic,No,Offline,No,No
+S0003,0.281,Amber,No scholarship + Low attendance,80.0,5,50,3,3,Intermediate,No,Offline,Yes,No
+S0780,0.281,Amber,No scholarship + No university transport,100.0,6,65,2,2,Intermediate,No,Offline,No,Yes
+S1021,0.281,Amber,No scholarship + Low attendance,78.0,5,71,2,1,Intermediate,No,Online,Yes,Yes
+S0027,0.28,Amber,No scholarship + Lower English proficiency,95.0,4,36,3,4,Basic,No,Offline,No,No
+S1039,0.28,Amber,No scholarship + Low attendance,79.0,4,59,7,4,Intermediate,No,Offline,No,No
+S0576,0.279,Amber,No scholarship + Online learning mode,95.0,2,12,2,1,Intermediate,No,Online,Yes,No
+S0702,0.279,Amber,No scholarship,90.0,5,36,3,3,Intermediate,No,Offline,Yes,Yes
+S0042,0.279,Amber,No scholarship + Lower English proficiency,97.0,2,11,2,3,Basic,No,Offline,Yes,No
+S0602,0.279,Amber,No scholarship + Online learning mode,98.0,8,87,2,5,Intermediate,No,Online,No,No
+S0391,0.279,Amber,Low attendance + No university transport,80.0,8,62,5,3,Intermediate,Yes,Offline,No,Yes
+S0118,0.278,Amber,No scholarship + Lower English proficiency,99.0,9,100,2,3,Basic,No,Online,Yes,No
+S1147,0.278,Amber,No scholarship + High social-media time,100.0,11,143,1,2,Intermediate,No,Offline,No,Yes
+S0243,0.277,Amber,Online learning mode + Few study hours,90.0,11,126,1,1,Intermediate,Yes,Online,Yes,No
+S0835,0.277,Amber,No scholarship + No university transport,100.0,8,99,3,4,Intermediate,No,Offline,No,Yes
+S0888,0.276,Amber,No scholarship + Online learning mode,100.0,9,116,3,3,Advance,No,Online,No,No
+S0517,0.275,Amber,No scholarship + Online learning mode,95.0,2,12,4,3,Intermediate,No,Online,No,Yes
+S0215,0.275,Amber,No scholarship + Lower English proficiency,100.0,2,11,2,5,Basic,No,Offline,No,No
+S0564,0.275,Amber,No scholarship + Few study hours,90.0,8,85,3,2,Advance,No,Offline,No,No
+S0108,0.275,Amber,No scholarship + No university transport,90.0,8,88,1,2,Intermediate,No,Offline,Yes,Yes
+S1035,0.274,Amber,No scholarship + No university transport,100.0,10,137,7,3,Intermediate,No,Offline,No,No
+S0081,0.274,Amber,No scholarship + Online learning mode,100.0,8,85,2,4,Intermediate,No,Online,Yes,No
+S0177,0.273,Amber,No scholarship + No university transport,90.0,8,88,4,2,Intermediate,No,Offline,No,Yes
+S1105,0.273,Amber,No scholarship + Online learning mode,100.0,11,132,5,3,Intermediate,No,Online,Yes,No
+S0242,0.273,Amber,Online learning mode + No university transport,85.0,11,103,1,4,Intermediate,Yes,Online,Yes,Yes
+S0845,0.272,Amber,No scholarship + No university transport,100.0,8,98,3,3,Intermediate,No,Offline,No,Yes
+S1015,0.272,Amber,No scholarship + No university transport,100.0,9,109,3,2,Advance,No,Offline,Yes,Yes
+S0763,0.271,Amber,Low attendance + Online learning mode,70.0,6,63,7,5,Advance,Yes,Online,Yes,Yes
+S0806,0.271,Amber,No scholarship + Online learning mode,100.0,8,101,2,3,Intermediate,No,Online,No,No
+S0085,0.271,Amber,No scholarship + No university transport,95.0,8,88,2,2,Intermediate,No,Offline,No,No
+S1037,0.271,Amber,Low attendance + No university transport,64.0,10,136,2,2,Intermediate,Yes,Offline,No,Yes
+S0528,0.271,Amber,No scholarship + Lower English proficiency,85.0,2,11,3,3,Basic,No,Offline,No,No
+S0375,0.27,Amber,No scholarship + Lower English proficiency,85.0,3,23,4,2,Basic,No,Offline,No,Yes
+S0686,0.269,Amber,No university transport + High social-media time,90.0,11,123,1,3,Intermediate,Yes,Offline,No,No
+S1042,0.269,Amber,No scholarship + No university transport,87.0,9,121,2,3,Advance,No,Offline,No,Yes
+S1095,0.269,Amber,No scholarship + Online learning mode,90.0,10,139,4,5,Advance,No,Online,Yes,No
+S0840,0.268,Amber,No scholarship + Online learning mode,100.0,10,137,2,2,Intermediate,No,Online,Yes,Yes
+S0755,0.268,Amber,No scholarship + No university transport,90.0,10,126,2,4,Intermediate,No,Offline,Yes,No
+S1112,0.268,Amber,No scholarship + Low attendance,80.0,4,43,7,1,Intermediate,No,Online,No,Yes
+S1080,0.268,Amber,No scholarship,98.0,8,18,3,3,Advance,No,Offline,Yes,No
+S0609,0.268,Amber,No scholarship + No university transport,100.0,11,122,3,5,Intermediate,No,Offline,Yes,No
+S1110,0.268,Amber,No scholarship + Low attendance,87.0,11,143,3,4,Intermediate,No,Offline,Yes,No
+S1117,0.268,Amber,No scholarship + Few study hours,87.0,10,135,2,1,Advance,No,Offline,No,Yes
+S0176,0.267,Amber,No scholarship + No university transport,90.0,8,88,4,4,Intermediate,No,Offline,Yes,No
+S0952,0.267,Amber,No scholarship + No university transport,95.0,6,61,8,2,Intermediate,No,Offline,No,No
+S0594,0.266,Amber,No scholarship + Online learning mode,95.0,3,24,3,4,Intermediate,No,Online,Yes,Yes
+S0208,0.266,Amber,No scholarship + Online learning mode,100.0,9,100,4,5,Intermediate,No,Online,Yes,No
+S0482,0.266,Amber,No scholarship + Online learning mode,95.0,1,0,2,2,Intermediate,No,Online,Yes,No
+S0503,0.265,Amber,No scholarship + Lower English proficiency,95.0,2,11,3,2,Basic,No,Offline,No,Yes
+S0703,0.265,Amber,No scholarship + No university transport,90.0,2,12,3,4,Intermediate,No,Offline,Yes,No
+S0228,0.265,Amber,No scholarship + Lower English proficiency,80.0,2,11,5,3,Basic,No,Online,No,No
+S0809,0.264,Amber,No scholarship + Lower English proficiency,100.0,6,98,4,1,Basic,No,Offline,No,No
+S0550,0.264,Amber,No scholarship + Few study hours,93.0,7,77,2,1,Intermediate,No,Offline,No,No
+S0901,0.263,Amber,No scholarship + No university transport,100.0,2,28,5,5,Intermediate,No,Offline,No,No
+S0203,0.263,Amber,No scholarship + Lower English proficiency,90.0,11,121,20,3,Basic,No,Offline,Yes,No
+S1123,0.263,Amber,No scholarship + Lower English proficiency,91.0,10,137,2,5,Basic,No,Offline,No,No
+S0736,0.262,Amber,No scholarship + No university transport,95.0,7,90,2,5,Intermediate,No,Offline,No,No
+S0897,0.262,Amber,No scholarship + No university transport,100.0,11,143,2,3,Intermediate,No,Offline,No,Yes
+S0121,0.262,Amber,No scholarship,95.0,11,120,3,3,Intermediate,No,Offline,Yes,No
+S0167,0.261,Amber,Few study hours + No university transport,90.0,12,136,1,1,Intermediate,Yes,Offline,No,No
+S0455,0.261,Amber,No scholarship + Online learning mode,85.0,8,85,1,1,Advance,No,Online,Yes,No
+S0884,0.261,Amber,No scholarship + No university transport,100.0,8,97,2,3,Intermediate,No,Offline,No,No
+S0745,0.261,Amber,No scholarship + No university transport,90.0,4,23,2,4,Intermediate,No,Offline,No,No
+S1143,0.261,Amber,No scholarship + Few study hours,100.0,11,143,3,1,Advance,No,Offline,Yes,No
+S0796,0.26,Amber,No scholarship + Lower English proficiency,100.0,5,58,3,3,Basic,No,Offline,Yes,Yes
+S1135,0.26,Amber,No scholarship + Low attendance,80.0,8,101,6,3,Intermediate,No,Offline,No,No
+S0649,0.259,Amber,No scholarship + Online learning mode,90.0,11,123,6,6,Advance,No,Online,Yes,No
+S0074,0.259,Amber,No scholarship + Online learning mode,95.0,8,88,2,1,Intermediate,No,Online,No,No
+S1082,0.258,Amber,Low attendance + Online learning mode,76.0,9,129,3,3,Intermediate,Yes,Online,Yes,No
+S0438,0.258,Amber,Lower English proficiency + Low attendance,80.0,2,11,1,2,Basic,Yes,Online,Yes,No
+S0149,0.258,Amber,No scholarship + No university transport,100.0,8,88,1,2,Intermediate,No,Offline,Yes,No
+S0462,0.257,Amber,No scholarship + No university transport,98.0,8,65,2,4,Intermediate,No,Offline,No,No
+S0798,0.257,Amber,No scholarship + Online learning mode,100.0,10,116,7,3,Intermediate,No,Online,No,No
+S1099,0.255,Amber,Online learning mode,95.0,11,104,5,4,Intermediate,Yes,Online,Yes,Yes
+S0094,0.255,Amber,No scholarship + Low attendance,80.0,2,11,6,2,Intermediate,No,Offline,No,Yes
+S1145,0.254,Amber,No scholarship + High social-media time,100.0,11,143,2,4,Intermediate,No,Offline,Yes,Yes
+S0394,0.254,Amber,No scholarship + Lower English proficiency,90.0,2,12,3,2,Basic,No,Offline,Yes,No
+S0623,0.253,Amber,No scholarship + Online learning mode,96.0,8,87,1,3,Intermediate,No,Online,Yes,No
+S0759,0.253,Amber,No scholarship + Online learning mode,100.0,9,117,4,3,Intermediate,No,Online,Yes,No
+S0065,0.253,Amber,No scholarship + High social-media time,95.0,8,88,2,3,Advance,No,Offline,Yes,No
+S0948,0.253,Amber,No scholarship + No university transport,100.0,12,111,10,5,Advance,No,Offline,No,No
+S0432,0.252,Amber,No scholarship + Lower English proficiency,87.0,3,11,3,2,Basic,No,Offline,Yes,No
+S0093,0.251,Amber,No university transport,100.0,11,73,3,6,Intermediate,Yes,Offline,No,No
+S1100,0.251,Amber,No scholarship + Few study hours,100.0,9,106,3,2,Intermediate,No,Offline,Yes,Yes
+S0770,0.251,Amber,No scholarship + No university transport,100.0,11,136,3,2,Intermediate,No,Offline,No,Yes
+S1176,0.25,Amber,No scholarship + Online learning mode,100.0,11,143,2,4,Advance,No,Online,No,Yes
+S0778,0.25,Amber,No scholarship + No university transport,95.0,5,65,2,2,Intermediate,No,Offline,No,Yes
+S0525,0.25,Amber,No scholarship + Few study hours,99.0,11,113,2,2,Intermediate,No,Offline,No,Yes
+S0622,0.25,Green,Low attendance + Online learning mode,80.0,3,27,2,1,Intermediate,Yes,Online,No,No
+S0869,0.249,Green,No scholarship + Low attendance,78.0,7,88,2,3,Advance,No,Offline,No,No
+S0895,0.249,Green,No scholarship + No university transport,100.0,7,107,7,3,Intermediate,No,Offline,No,No
+S1184,0.249,Green,No scholarship + Low attendance,78.0,5,63,3,4,Intermediate,No,Offline,Yes,No
+S0617,0.248,Green,Online learning mode + High social-media time,90.0,8,75,1,2,Intermediate,Yes,Online,No,No
+S0847,0.247,Green,No scholarship + Online learning mode,100.0,8,100,6,4,Advance,No,Online,No,No
+S0826,0.247,Green,No scholarship + No university transport,100.0,7,65,4,3,Intermediate,No,Offline,Yes,No
+S0606,0.246,Green,No scholarship + Low attendance,85.0,7,68,6,6,Intermediate,No,Offline,Yes,Yes
+S0325,0.245,Green,No scholarship + Low attendance,77.0,3,23,4,3,Intermediate,No,Offline,Yes,Yes
+S0269,0.244,Green,No scholarship + Low attendance,80.0,2,11,3,3,Intermediate,No,Offline,Yes,No
+S0920,0.244,Green,No scholarship + Online learning mode,90.0,5,66,6,4,Intermediate,No,Online,No,No
+S0400,0.244,Green,No scholarship + Lower English proficiency,95.0,2,11,4,1,Basic,No,Offline,Yes,Yes
+S1001,0.243,Green,No scholarship + Online learning mode,100.0,9,113,5,4,Intermediate,No,Online,Yes,No
+S0259,0.242,Green,Low attendance + Online learning mode,70.0,5,40,10,3,Intermediate,Yes,Online,Yes,No
+S0994,0.242,Green,No scholarship + No university transport,100.0,8,98,2,3,Intermediate,No,Offline,No,No
+S0701,0.241,Green,Low attendance + Lower English proficiency,62.0,1,0,2,4,Basic,Yes,Offline,Yes,No
+S0792,0.241,Green,No scholarship + Online learning mode,100.0,6,84,8,4,Intermediate,No,Online,No,No
+S0028,0.241,Green,Low attendance + Online learning mode,70.0,4,35,4,2,Intermediate,Yes,Online,Yes,Yes
+S0379,0.24,Green,Low attendance + Lower English proficiency,70.0,3,22,6,2,Basic,Yes,Offline,Yes,No
+S0356,0.24,Green,No scholarship + High social-media time,100.0,6,60,1,3,Intermediate,No,Offline,Yes,Yes
+S0189,0.24,Green,Low attendance + Few study hours,80.0,11,132,5,2,Intermediate,Yes,Offline,Yes,No
+S0483,0.24,Green,No scholarship + Lower English proficiency,90.0,2,12,1,5,Basic,No,Offline,Yes,No
+S1141,0.239,Green,No scholarship + Lower English proficiency,100.0,9,102,5,1,Basic,No,Offline,Yes,No
+S0866,0.239,Green,No scholarship + No university transport,100.0,8,101,6,5,Intermediate,No,Offline,No,No
+S1033,0.239,Green,No scholarship + Lower English proficiency,100.0,7,88,3,3,Basic,No,Offline,No,No
+S0619,0.239,Green,Online learning mode + Few study hours,90.0,13,86,3,2,Intermediate,Yes,Online,Yes,Yes
+S0491,0.239,Green,Low attendance + Few study hours,60.0,7,87,6,0,Intermediate,Yes,Offline,No,No
+S0354,0.239,Green,No scholarship + No university transport,100.0,8,87,4,3,Intermediate,No,Offline,Yes,No
+S0942,0.239,Green,No scholarship + No university transport,100.0,9,129,2,2,Advance,No,Offline,No,Yes
+S1120,0.239,Green,Low attendance + No scholarship,70.0,4,89,6,5,Intermediate,No,Offline,Yes,No
+S0963,0.238,Green,No scholarship + No university transport,100.0,10,134,9,2,Advance,No,Offline,No,No
+S1188,0.238,Green,No scholarship + Few study hours,100.0,9,113,3,2,Intermediate,No,Offline,Yes,No
+S0101,0.238,Green,No scholarship,90.0,8,88,3,4,Intermediate,No,Offline,Yes,No
+S0082,0.238,Green,No scholarship + Low attendance,85.0,8,88,8,3,Intermediate,No,Offline,Yes,No
+S0367,0.238,Green,Online learning mode + No university transport,95.0,11,120,2,5,Intermediate,Yes,Online,Yes,No
+S0766,0.237,Green,No scholarship + Online learning mode,100.0,9,139,9,3,Intermediate,No,Online,Yes,No
+S0677,0.237,Green,No scholarship + No university transport,90.0,6,72,4,2,Intermediate,No,Offline,No,No
+S0783,0.237,Green,No scholarship + No university transport,100.0,11,136,3,2,Intermediate,No,Offline,No,Yes
+S0049,0.237,Green,No scholarship + Lower English proficiency,99.0,4,36,3,2,Basic,No,Offline,No,No
+S0987,0.236,Green,No scholarship + Online learning mode,100.0,4,45,8,4,Intermediate,No,Online,Yes,No
+S0943,0.235,Green,No scholarship + Few study hours,100.0,10,134,2,1,Advance,No,Offline,No,Yes
+S0939,0.235,Green,No scholarship + No university transport,100.0,9,138,6,4,Advance,No,Offline,No,No
+S0735,0.235,Green,No scholarship + Lower English proficiency,90.0,1,11,7,5,Basic,No,Online,No,No
+S1183,0.235,Green,No scholarship + Online learning mode,100.0,5,59,1,3,Intermediate,No,Online,Yes,No
+S0732,0.235,Green,Lower English proficiency + Low attendance,80.0,4,24,2,4,Basic,Yes,Online,Yes,Yes
+S0662,0.234,Green,Low attendance + High social-media time,80.0,8,87,1,2,Intermediate,Yes,Offline,Yes,No
+S0590,0.234,Green,No scholarship + Online learning mode,99.0,8,85,3,1,Intermediate,No,Online,Yes,No
+S1093,0.233,Green,No scholarship + Low attendance,85.0,4,67,2,3,Intermediate,No,Offline,Yes,No
+S0067,0.233,Green,No scholarship + Online learning mode,100.0,8,88,4,3,Intermediate,No,Online,Yes,No
+S0738,0.233,Green,No scholarship + High social-media time,100.0,11,140,1,3,Intermediate,No,Offline,Yes,No
+S0995,0.233,Green,Lower English proficiency + Few study hours,100.0,11,143,3,1,Basic,Yes,Offline,No,No
+S0878,0.233,Green,No scholarship + Few study hours,100.0,6,88,2,1,Advance,No,Offline,No,Yes
+S1182,0.232,Green,No scholarship + High social-media time,100.0,6,77,2,3,Intermediate,No,Offline,Yes,Yes
+S0599,0.232,Green,No scholarship + Lower English proficiency,80.0,3,18,3,6,Basic,No,Offline,Yes,Yes
+S0633,0.232,Green,No scholarship + Lower English proficiency,95.0,2,11,2,3,Basic,No,Offline,Yes,No
+S0201,0.232,Green,No scholarship + Few study hours,90.0,10,125,2,2,Intermediate,No,Offline,Yes,No
+S1193,0.231,Green,No scholarship,100.0,11,136,3,5,Intermediate,No,Offline,Yes,No
+S1068,0.231,Green,Low attendance + No scholarship,60.0,6,97,5,3,Advance,No,Offline,No,Yes
+S1181,0.231,Green,No scholarship + Low attendance,80.0,7,107,9,2,Intermediate,No,Online,Yes,Yes
+S0015,0.231,Green,No scholarship + Lower English proficiency,97.0,4,36,1,2,Basic,No,Offline,No,No
+S0120,0.23,Green,Few study hours + No university transport,100.0,15,90,4,1,Advance,Yes,Offline,Yes,Yes
+S0155,0.23,Green,No scholarship + No university transport,100.0,12,136,1,2,Advance,No,Offline,Yes,Yes
+S0026,0.23,Green,No scholarship + Lower English proficiency,97.0,4,39,1,3,Basic,No,Offline,Yes,No
+S0930,0.23,Green,Low attendance + Online learning mode,80.0,8,135,2,3,Advance,Yes,Online,No,No
+S0479,0.23,Green,No scholarship + No university transport,88.0,3,20,3,2,Intermediate,No,Offline,Yes,No
+S0595,0.229,Green,No scholarship + Lower English proficiency,100.0,5,49,2,3,Basic,No,Offline,Yes,No
+S0465,0.229,Green,No scholarship,97.0,8,87,3,3,Intermediate,No,Offline,No,No
+S1097,0.229,Green,No scholarship + Online learning mode,89.0,8,95,8,3,Intermediate,No,Online,No,Yes
+S0297,0.227,Green,No scholarship + Online learning mode,100.0,4,25,4,4,Intermediate,No,Online,Yes,No
+S0373,0.226,Green,No scholarship,96.0,11,141,3,3,Intermediate,No,Offline,Yes,No
+S1038,0.226,Green,No scholarship + Online learning mode,100.0,9,123,7,5,Intermediate,No,Online,Yes,No
+S0071,0.226,Green,No scholarship + Lower English proficiency,100.0,2,11,1,8,Basic,No,Online,Yes,No
+S0519,0.226,Green,No university transport + High social-media time,90.0,11,139,1,7,Intermediate,Yes,Offline,No,No
+S0931,0.226,Green,No scholarship + No university transport,100.0,6,56,3,2,Intermediate,No,Offline,Yes,No
+S0024,0.226,Green,No scholarship,95.0,4,36,3,6,Intermediate,No,Offline,No,No
+S0764,0.225,Green,No scholarship + Online learning mode,86.0,8,119,9,3,Intermediate,No,Online,No,Yes
+S0141,0.224,Green,No scholarship + Low attendance,80.0,4,36,2,2,Intermediate,No,Offline,Yes,No
+S0245,0.224,Green,Lower English proficiency + Online learning mode,90.0,8,88,1,2,Basic,Yes,Online,No,No
+S0635,0.223,Green,No scholarship + Lower English proficiency,90.0,2,11,1,4,Basic,No,Offline,Yes,No
+S1036,0.223,Green,No scholarship + No university transport,100.0,11,143,3,3,Advance,No,Offline,No,No
+S0575,0.223,Green,No scholarship + No university transport,99.0,6,70,3,3,Intermediate,No,Offline,Yes,No
+S1191,0.223,Green,Lower English proficiency,100.0,8,18,4,4,Basic,Yes,Offline,Yes,Yes
+S0762,0.223,Green,No scholarship + No university transport,95.0,5,42,7,4,Intermediate,No,Offline,No,No
+S0556,0.221,Green,No scholarship + No university transport,95.0,8,110,2,4,Intermediate,No,Offline,No,No
+S0283,0.221,Green,No scholarship + Lower English proficiency,100.0,1,0,1,2,Basic,No,Offline,Yes,No
+S0542,0.221,Green,No scholarship + Few study hours,90.0,2,12,2,2,Intermediate,No,Offline,Yes,No
+S0822,0.221,Green,No scholarship + Online learning mode,89.0,8,104,7,3,Advance,No,Online,No,No
+S0713,0.22,Green,Lower English proficiency + Low attendance,80.0,2,11,1,4,Basic,Yes,Offline,Yes,No
+S0374,0.22,Green,No scholarship + Lower English proficiency,100.0,5,42,8,2,Basic,No,Offline,Yes,Yes
+S0077,0.22,Green,No scholarship + Lower English proficiency,95.0,8,88,2,4,Basic,No,Offline,Yes,No
+S0389,0.22,Green,No scholarship + No university transport,90.0,6,58,3,5,Intermediate,No,Offline,Yes,No
+S0855,0.219,Green,No scholarship + No university transport,100.0,4,59,3,2,Intermediate,No,Offline,No,Yes
+S1078,0.219,Green,No scholarship,88.0,11,143,7,3,Intermediate,No,Offline,Yes,Yes
+S1009,0.218,Green,No scholarship + No university transport,100.0,7,96,2,3,Intermediate,No,Offline,Yes,Yes
+S0578,0.218,Green,No university transport + Few study hours,88.0,7,70,2,2,Intermediate,Yes,Offline,Yes,No
+S0852,0.218,Green,No scholarship + Online learning mode,100.0,9,130,10,3,Advance,No,Online,Yes,No
+S0638,0.218,Green,Few study hours + No university transport,90.0,10,95,2,1,Intermediate,Yes,Offline,Yes,No
+S0749,0.216,Green,Low attendance + No university transport,80.0,10,116,4,6,Advance,Yes,Offline,No,No
+S0933,0.216,Green,No scholarship + No university transport,100.0,7,112,6,2,Advance,No,Offline,Yes,No
+S1180,0.215,Green,No scholarship + Few study hours,100.0,5,68,3,1,Intermediate,No,Offline,Yes,Yes
+S0651,0.215,Green,No scholarship + Few study hours,96.0,4,35,3,2,Intermediate,No,Offline,Yes,No
+S1020,0.215,Green,No scholarship + Few study hours,100.0,11,143,3,2,Intermediate,No,Offline,No,No
+S0319,0.215,Green,No scholarship + No university transport,100.0,1,0,1,3,Intermediate,No,Offline,Yes,No
+S0999,0.214,Green,No scholarship + Online learning mode,100.0,6,74,2,3,Intermediate,No,Online,No,Yes
+S0229,0.213,Green,No scholarship + Lower English proficiency,95.0,2,11,1,7,Basic,No,Offline,No,No
+S1140,0.213,Green,Low attendance + Online learning mode,80.0,12,133,6,6,Intermediate,Yes,Online,Yes,No
+S1007,0.213,Green,No scholarship + No university transport,100.0,11,143,3,3,Advance,No,Offline,No,Yes
+S0306,0.212,Green,Low attendance + Online learning mode,70.0,3,23,0,2,Intermediate,Yes,Online,No,No
+S1045,0.212,Green,No scholarship + No university transport,100.0,11,144,2,5,Advance,No,Offline,Yes,Yes
+S0881,0.212,Green,No scholarship + Online learning mode,100.0,10,139,4,4,Advance,No,Online,Yes,No
+S1005,0.211,Green,No scholarship + No university transport,100.0,8,124,8,5,Advance,No,Offline,Yes,No
+S0973,0.211,Green,No scholarship + No university transport,95.0,10,140,7,4,Advance,No,Offline,No,No
+S0520,0.211,Green,No scholarship + Online learning mode,85.0,2,12,4,1,Advance,No,Online,Yes,No
+S0991,0.211,Green,No scholarship + No university transport,100.0,11,143,3,5,Advance,No,Offline,No,Yes
+S0675,0.21,Green,Online learning mode + Few study hours,90.0,8,87,1,1,Intermediate,Yes,Online,Yes,No
+S1040,0.21,Green,No scholarship + Low attendance,80.0,3,29,7,4,Intermediate,No,Offline,Yes,No
+S0477,0.21,Green,No scholarship + Online learning mode,95.0,2,11,2,3,Intermediate,No,Online,Yes,No
+S1013,0.21,Green,No scholarship + No university transport,100.0,8,93,2,2,Advance,No,Offline,No,Yes
+S0427,0.209,Green,Lower English proficiency + Low attendance,80.0,3,35,1,4,Basic,Yes,Online,Yes,Yes
+S0182,0.209,Green,No scholarship + No university transport,98.0,8,75,2,3,Advance,No,Offline,Yes,No
+S0007,0.209,Green,Low attendance + Online learning mode,80.0,4,36,2,2,Intermediate,Yes,Online,No,No
+S0834,0.208,Green,No scholarship + No university transport,100.0,10,131,2,4,Advance,No,Offline,No,No
+S1104,0.208,Green,Lower English proficiency + Online learning mode,90.0,5,43,3,2,Basic,Yes,Online,No,No
+S0473,0.208,Green,Low attendance + Online learning mode,70.0,2,11,2,1,Intermediate,Yes,Online,Yes,No
+S0962,0.208,Green,No scholarship + No university transport,100.0,11,143,3,5,Intermediate,No,Offline,Yes,No
+S0582,0.208,Green,No university transport + High social-media time,95.0,7,86,1,4,Intermediate,Yes,Offline,No,No
+S0013,0.207,Green,No scholarship + Lower English proficiency,100.0,4,36,1,1,Basic,No,Offline,Yes,No
+S0331,0.207,Green,Low attendance + No university transport,50.0,3,23,12,3,Advance,Yes,Offline,Yes,No
+S0742,0.207,Green,High social-media time + Few study hours,87.0,10,128,1,2,Intermediate,Yes,Offline,Yes,No
+S1092,0.206,Green,No scholarship + Few study hours,100.0,10,136,2,1,Intermediate,No,Offline,No,No
+S0337,0.205,Green,Lower English proficiency + Low attendance,80.0,7,53,4,2,Basic,Yes,Offline,Yes,No
+S0522,0.205,Green,No scholarship + Online learning mode,97.0,2,13,1,3,Intermediate,No,Online,Yes,No
+S0314,0.205,Green,No scholarship + No university transport,98.0,4,25,3,2,Intermediate,No,Offline,No,No
+S0883,0.204,Green,No scholarship + No university transport,100.0,9,121,1,4,Advance,No,Offline,No,Yes
+S0851,0.204,Green,No scholarship + Online learning mode,100.0,10,138,4,3,Advance,No,Online,Yes,No
+S0976,0.204,Green,No scholarship + No university transport,100.0,5,77,3,3,Intermediate,No,Offline,No,No
+S0385,0.203,Green,Lower English proficiency + No university transport,100.0,8,88,4,5,Basic,Yes,Offline,Yes,No
+S0833,0.203,Green,No scholarship + No university transport,100.0,8,101,2,4,Advance,No,Offline,No,Yes
+S0740,0.202,Green,No scholarship + Lower English proficiency,90.0,1,11,1,1,Basic,No,Offline,Yes,No
+S0084,0.202,Green,No scholarship + High social-media time,98.0,8,80,1,3,Intermediate,No,Offline,No,No
+S0088,0.2,Green,No scholarship + High social-media time,95.0,2,11,1,3,Intermediate,No,Offline,Yes,No
+S1065,0.199,Green,No scholarship + Online learning mode,89.0,8,136,2,3,Advance,No,Online,No,No
+S0070,0.199,Green,Lower English proficiency + Low attendance,80.0,8,88,2,3,Basic,Yes,Offline,Yes,No
+S0846,0.198,Green,Low attendance + No university transport,80.0,9,100,4,6,Intermediate,Yes,Offline,Yes,No
+S0309,0.198,Green,No scholarship + Lower English proficiency,100.0,3,23,5,2,Basic,No,Offline,No,No
+S0674,0.198,Green,No scholarship,97.0,7,80,4,3,Intermediate,No,Offline,Yes,No
+S0904,0.197,Green,No scholarship + No university transport,98.0,10,138,3,4,Intermediate,No,Offline,No,No
+S0301,0.197,Green,No scholarship + No university transport,95.0,5,48,3,2,Intermediate,No,Offline,No,No
+S1088,0.197,Green,No scholarship + Online learning mode,100.0,9,132,5,4,Advance,No,Online,No,No
+S0820,0.196,Green,No scholarship + Online learning mode,100.0,5,71,3,3,Intermediate,No,Online,No,No
+S0569,0.196,Green,No scholarship + High social-media time,88.0,1,11,2,6,Intermediate,No,Offline,No,No
+S0804,0.196,Green,Lower English proficiency + Online learning mode,87.0,8,88,3,5,Basic,Yes,Online,Yes,No
+S0415,0.196,Green,No scholarship + Low attendance,85.0,6,70,4,4,Advance,No,Offline,Yes,No
+S0083,0.196,Green,No scholarship + High social-media time,95.0,8,83,1,3,Intermediate,No,Offline,Yes,No
+S0533,0.196,Green,No scholarship + Lower English proficiency,90.0,2,11,2,5,Basic,No,Online,Yes,Yes
+S0581,0.195,Green,No scholarship + Lower English proficiency,100.0,2,11,6,4,Basic,No,Online,Yes,No
+S0348,0.195,Green,No scholarship + Few study hours,98.0,3,25,2,2,Intermediate,No,Offline,No,No
+S0756,0.195,Green,No scholarship + Online learning mode,100.0,7,103,2,6,Intermediate,No,Online,Yes,No
+S1048,0.194,Green,No scholarship + Online learning mode,100.0,6,92,5,3,Advance,No,Online,No,No
+S0174,0.194,Green,No scholarship + No university transport,97.0,5,46,2,5,Intermediate,No,Offline,Yes,Yes
+S0628,0.194,Green,Low attendance + No university transport,80.0,8,87,2,2,Intermediate,Yes,Offline,Yes,No
+S0450,0.194,Green,Low attendance + No university transport,80.0,4,39,3,2,Intermediate,Yes,Offline,Yes,No
+S0659,0.194,Green,No scholarship,90.0,8,87,3,5,Advance,No,Offline,Yes,Yes
+S0419,0.193,Green,No scholarship + Lower English proficiency,100.0,2,11,3,2,Basic,No,Offline,Yes,Yes
+S0934,0.193,Green,No scholarship + Lower English proficiency,100.0,5,79,5,3,Basic,No,Offline,Yes,No
+S0570,0.193,Green,No scholarship + Low attendance,78.0,8,76,16,2,Advance,No,Online,No,Yes
+S0655,0.192,Green,Online learning mode + Few study hours,85.0,9,90,1,1,Intermediate,Yes,Online,No,No
+S0757,0.192,Green,No scholarship + No university transport,87.0,5,67,3,4,Advance,No,Offline,No,No
+S0636,0.191,Green,No university transport + High social-media time,95.0,8,84,2,3,Intermediate,Yes,Offline,Yes,No
+S0672,0.191,Green,Lower English proficiency + No university transport,90.0,8,91,2,2,Basic,Yes,Offline,Yes,No
+S0091,0.191,Green,Lower English proficiency + Online learning mode,95.0,8,88,3,2,Basic,Yes,Online,No,No
+S1059,0.191,Green,Low attendance + Online learning mode,70.0,7,30,4,6,Advance,Yes,Online,No,No
+S1107,0.19,Green,No scholarship + Online learning mode,100.0,5,62,3,4,Intermediate,No,Online,No,No
+S0715,0.19,Green,No university transport + High social-media time,90.0,12,136,2,3,Advance,Yes,Offline,No,No
+S0416,0.19,Green,No scholarship + Lower English proficiency,90.0,3,23,3,2,Basic,No,Offline,No,No
+S0695,0.189,Green,No scholarship + Lower English proficiency,95.0,4,31,1,3,Basic,No,Offline,No,Yes
+S0947,0.189,Green,Few study hours + No university transport,100.0,7,66,2,1,Intermediate,Yes,Offline,Yes,No
+S0873,0.189,Green,No scholarship + Lower English proficiency,100.0,6,89,2,3,Basic,No,Offline,Yes,No
+S0005,0.188,Green,Low attendance + Online learning mode,80.0,4,36,2,3,Intermediate,Yes,Online,Yes,No
+S1139,0.188,Green,Lower English proficiency + Online learning mode,100.0,9,123,2,3,Basic,Yes,Online,Yes,Yes
+S1046,0.188,Green,No scholarship + No university transport,100.0,4,68,4,2,Intermediate,No,Offline,No,No
+S0524,0.187,Green,Low attendance + Lower English proficiency,70.0,2,11,3,3,Basic,Yes,Offline,Yes,Yes
+S0476,0.187,Green,Low attendance + No university transport,70.0,3,23,3,3,Intermediate,Yes,Offline,Yes,No
+S0087,0.186,Green,Online learning mode + High social-media time,96.0,8,88,1,2,Intermediate,Yes,Online,No,No
+S0903,0.186,Green,Online learning mode + No university transport,99.0,10,105,5,3,Advance,Yes,Online,Yes,No
+S0080,0.186,Green,Low attendance + Few study hours,80.0,8,71,5,1,Intermediate,Yes,Offline,Yes,No
+S0890,0.185,Green,Low attendance + No university transport,67.0,5,64,8,3,Advance,Yes,Offline,Yes,No
+S0536,0.185,Green,No scholarship + Online learning mode,100.0,2,12,1,6,Intermediate,No,Online,No,No
+S0347,0.185,Green,Few study hours,100.0,8,60,3,0,Intermediate,Yes,Offline,Yes,No
+S1118,0.185,Green,No scholarship + High social-media time,100.0,6,78,2,4,Advance,No,Offline,Yes,No
+S0786,0.185,Green,No scholarship + Online learning mode,100.0,9,121,5,4,Advance,No,Online,Yes,No
+S0877,0.184,Green,No university transport,100.0,9,103,3,3,Intermediate,Yes,Offline,Yes,Yes
+S0964,0.184,Green,No scholarship + Low attendance,77.0,2,35,10,2,Advance,No,Online,No,No
+S0390,0.184,Green,Lower English proficiency + Online learning mode,95.0,2,14,1,2,Basic,Yes,Online,Yes,Yes
+S1170,0.184,Green,No scholarship + Online learning mode,100.0,8,102,5,4,Intermediate,No,Online,No,No
+S0956,0.183,Green,No scholarship + No university transport,100.0,5,61,3,3,Intermediate,No,Offline,Yes,No
+S1067,0.183,Green,No scholarship + Few study hours,100.0,11,144,2,1,Advance,No,Offline,No,Yes
+S0612,0.183,Green,Low attendance + Online learning mode,70.0,2,11,2,3,Intermediate,Yes,Online,Yes,No
+S0859,0.182,Green,No scholarship + Online learning mode,100.0,5,96,4,6,Intermediate,No,Online,Yes,Yes
+S0824,0.182,Green,No scholarship + No university transport,100.0,9,120,2,4,Intermediate,No,Offline,No,Yes
+S0848,0.182,Green,No scholarship + No university transport,88.0,8,137,7,4,Advance,No,Offline,Yes,No
+S0381,0.182,Green,No scholarship + Lower English proficiency,100.0,2,11,4,2,Basic,No,Offline,Yes,No
+S0577,0.181,Green,Online learning mode + Few study hours,100.0,11,117,1,1,Intermediate,Yes,Online,Yes,No
+S0377,0.181,Green,No scholarship,100.0,2,11,3,5,Intermediate,No,Offline,No,No
+S0844,0.181,Green,No scholarship + No university transport,88.0,9,117,2,2,Advance,No,Offline,Yes,No
+S0865,0.18,Green,No scholarship + No university transport,100.0,6,77,5,2,Intermediate,No,Offline,No,No
+S1077,0.18,Green,No scholarship + Low attendance,80.0,6,109,7,3,Intermediate,No,Offline,Yes,Yes
+S0136,0.179,Green,Online learning mode + Few study hours,90.0,11,126,3,2,Advance,Yes,Online,Yes,Yes
+S0265,0.179,Green,Online learning mode + High social-media time,90.0,5,55,2,6,Intermediate,Yes,Online,No,No
+S0558,0.178,Green,No university transport,98.0,8,90,4,5,Intermediate,Yes,Offline,Yes,No
+S0946,0.178,Green,No scholarship + No university transport,90.0,5,130,6,3,Intermediate,No,Offline,Yes,Yes
+S0296,0.178,Green,No university transport + High social-media time,90.0,11,128,1,2,Intermediate,Yes,Offline,Yes,No
+S0951,0.177,Green,No scholarship + Few study hours,100.0,10,136,10,1,Advance,No,Offline,Yes,No
+S0777,0.177,Green,No scholarship + No university transport,87.0,7,99,2,2,Advance,No,Offline,No,No
+S0439,0.177,Green,Low attendance + Online learning mode,75.0,3,25,1,3,Intermediate,Yes,Online,Yes,No
+S0825,0.177,Green,Lower English proficiency + Online learning mode,98.0,6,70,4,1,Basic,Yes,Online,No,No
+S1186,0.176,Green,No scholarship + Few study hours,100.0,9,125,2,1,Advance,No,Offline,No,No
+S0936,0.176,Green,No scholarship + No university transport,100.0,8,121,7,3,Intermediate,No,Offline,No,No
+S0708,0.176,Green,No university transport + High social-media time,87.0,8,87,1,3,Intermediate,Yes,Offline,No,No
+S1153,0.176,Green,No scholarship + High social-media time,100.0,10,135,1,3,Intermediate,No,Offline,No,No
+S0359,0.176,Green,Low attendance + Few study hours,60.0,3,26,2,2,Intermediate,Yes,Offline,No,No
+S0261,0.176,Green,Lower English proficiency + No university transport,85.0,4,25,3,3,Basic,Yes,Offline,No,No
+S0831,0.175,Green,Online learning mode + No university transport,99.0,11,125,4,2,Intermediate,Yes,Online,No,No
+S0351,0.175,Green,No scholarship + High social-media time,97.0,4,20,2,6,Intermediate,No,Offline,Yes,Yes
+S0637,0.175,Green,Lower English proficiency + Low attendance,80.0,2,14,1,4,Basic,Yes,Offline,Yes,Yes
+S0529,0.175,Green,Low attendance + No university transport,80.0,3,21,3,4,Intermediate,Yes,Offline,Yes,No
+S0664,0.174,Green,No university transport + Few study hours,97.0,8,87,3,2,Intermediate,Yes,Offline,Yes,No
+S0412,0.174,Green,No scholarship + High social-media time,100.0,8,85,2,6,Intermediate,No,Offline,Yes,No
+S0712,0.173,Green,High social-media time,95.0,11,118,1,4,Intermediate,Yes,Offline,Yes,No
+S0779,0.173,Green,No scholarship + No university transport,100.0,5,66,4,2,Intermediate,No,Offline,No,No
+S0281,0.172,Green,No scholarship + No university transport,100.0,1,0,3,4,Intermediate,No,Offline,No,No
+S0836,0.172,Green,Low attendance + No university transport,78.0,10,142,7,3,Advance,Yes,Offline,No,No
+S0900,0.172,Green,No university transport + Few study hours,95.0,11,128,3,2,Intermediate,Yes,Offline,Yes,No
+S0294,0.172,Green,Lower English proficiency + High social-media time,90.0,4,23,2,3,Basic,Yes,Offline,No,No
+S1019,0.172,Green,Low attendance + No university transport,76.0,6,78,2,5,Advance,Yes,Offline,No,Yes
+S0741,0.171,Green,No scholarship + Lower English proficiency,90.0,1,28,1,4,Basic,No,Offline,Yes,No
+S0731,0.17,Green,Lower English proficiency + No university transport,85.0,4,36,2,4,Basic,Yes,Offline,No,No
+S0629,0.17,Green,Lower English proficiency + Online learning mode,85.0,2,6,2,3,Basic,Yes,Online,No,No
+S0343,0.17,Green,Online learning mode + Few study hours,85.0,3,24,2,1,Intermediate,Yes,Online,No,No
+S0353,0.17,Green,Lower English proficiency + No university transport,90.0,2,11,4,5,Basic,Yes,Offline,Yes,Yes
+S0072,0.17,Green,Online learning mode + High social-media time,90.0,8,88,1,2,Intermediate,Yes,Online,Yes,No
+S0611,0.17,Green,Online learning mode + No university transport,90.0,8,87,1,2,Advance,Yes,Online,No,No
+S0019,0.169,Green,Low attendance + Online learning mode,70.0,4,35,3,1,Advance,Yes,Online,Yes,No
+S0413,0.169,Green,No scholarship + Lower English proficiency,90.0,1,14,2,4,Basic,No,Offline,No,No
+S0272,0.169,Green,No scholarship + No university transport,100.0,1,0,4,6,Advance,No,Offline,Yes,No
+S0345,0.169,Green,Low attendance + Online learning mode,80.0,4,36,1,5,Intermediate,Yes,Online,Yes,No
+S0880,0.168,Green,Low attendance + No university transport,84.0,10,122,3,2,Advance,Yes,Offline,Yes,No
+S0992,0.168,Green,No scholarship + Online learning mode,100.0,6,97,3,6,Advance,No,Online,No,No
+S0313,0.168,Green,Lower English proficiency + Low attendance,80.0,6,50,3,1,Basic,Yes,Online,No,No
+S0838,0.167,Green,Low attendance + No university transport,70.0,6,86,5,6,Intermediate,Yes,Offline,Yes,No
+S0625,0.167,Green,High social-media time + Few study hours,95.0,8,90,1,2,Intermediate,Yes,Offline,Yes,No
+S0919,0.167,Green,Low attendance + No university transport,78.0,6,77,3,2,Advance,Yes,Offline,Yes,Yes
+S0646,0.166,Green,Lower English proficiency + Few study hours,100.0,7,75,1,1,Basic,Yes,Offline,No,No
+S0733,0.166,Green,No university transport + High social-media time,95.0,11,135,2,5,Intermediate,Yes,Offline,Yes,No
+S0267,0.166,Green,No scholarship + No university transport,98.0,5,45,2,5,Intermediate,No,Offline,Yes,No
+S0449,0.166,Green,Lower English proficiency + No university transport,85.0,1,0,5,4,Basic,Yes,Offline,Yes,No
+S1069,0.165,Green,No scholarship,100.0,11,139,7,4,Advance,No,Offline,No,No
+S0750,0.165,Green,No scholarship + No university transport,100.0,6,78,7,3,Intermediate,No,Offline,No,No
+S0025,0.165,Green,Online learning mode + Few study hours,85.0,4,35,1,1,Advance,Yes,Online,Yes,No
+S0408,0.165,Green,No university transport + High social-media time,99.0,8,90,2,3,Intermediate,Yes,Offline,Yes,No
+S0193,0.165,Green,Low attendance + Lower English proficiency,70.0,2,12,2,2,Basic,Yes,Offline,No,Yes
+S1032,0.164,Green,No scholarship + No university transport,100.0,5,68,3,2,Advance,No,Offline,Yes,Yes
+S0206,0.164,Green,High social-media time + Few study hours,95.0,10,120,1,2,Advance,Yes,Offline,Yes,No
+S1185,0.163,Green,No scholarship,100.0,11,143,5,5,Advance,No,Offline,No,No
+S0603,0.163,Green,Online learning mode + No university transport,95.0,8,90,2,3,Intermediate,Yes,Online,No,No
+S0260,0.163,Green,Lower English proficiency + Online learning mode,90.0,3,23,3,2,Basic,Yes,Online,Yes,No
+S0793,0.162,Green,No scholarship + Online learning mode,100.0,8,119,6,4,Advance,No,Online,Yes,No
+S0266,0.162,Green,Low attendance + Online learning mode,75.0,3,23,2,2,Intermediate,Yes,Online,Yes,No
+S0089,0.162,Green,No scholarship + Few study hours,100.0,8,88,15,1,Intermediate,No,Offline,Yes,No
+S0893,0.162,Green,No university transport,100.0,8,100,3,3,Intermediate,Yes,Offline,No,Yes
+S0490,0.162,Green,No university transport + High social-media time,100.0,8,85,2,6,Intermediate,Yes,Offline,Yes,No
+S0180,0.161,Green,Lower English proficiency + Few study hours,88.0,8,88,4,2,Basic,Yes,Offline,No,No
+S0478,0.161,Green,Low attendance + No university transport,75.0,3,25,1,2,Advance,Yes,Offline,Yes,No
+S0722,0.161,Green,No dominant actionable driver,100.0,11,129,3,4,Intermediate,Yes,Offline,Yes,No
+S0819,0.161,Green,No scholarship + No university transport,100.0,9,100,2,2,Advance,No,Offline,Yes,Yes
+S0106,0.16,Green,Few study hours + No university transport,95.0,4,35,1,1,Intermediate,Yes,Offline,Yes,No
+S0552,0.159,Green,Online learning mode + High social-media time,90.0,8,84,1,4,Intermediate,Yes,Online,No,No
+S0573,0.159,Green,Few study hours + Low attendance,85.0,8,88,3,1,Intermediate,Yes,Offline,No,No
+S1060,0.159,Green,Online learning mode,96.0,11,140,3,4,Intermediate,Yes,Online,No,No
+S0768,0.159,Green,No university transport,90.0,11,122,4,6,Advance,Yes,Offline,Yes,Yes
+S0618,0.158,Green,Few study hours,90.0,8,100,3,2,Intermediate,Yes,Offline,Yes,No
+S0616,0.158,Green,No university transport + High social-media time,90.0,8,92,1,4,Intermediate,Yes,Offline,Yes,No
+S0621,0.158,Green,Lower English proficiency + Low attendance,80.0,2,15,3,4,Basic,Yes,Offline,Yes,Yes
+S0022,0.157,Green,Low attendance + No university transport,80.0,4,36,2,3,Intermediate,Yes,Offline,No,Yes
+S0135,0.157,Green,No dominant actionable driver,100.0,8,68,3,4,Intermediate,Yes,Offline,Yes,No
+S0132,0.156,Green,Lower English proficiency + Low attendance,80.0,2,11,7,5,Basic,Yes,Offline,No,No
+S0380,0.156,Green,No scholarship + Few study hours,100.0,3,23,2,2,Intermediate,No,Offline,No,No
+S0212,0.156,Green,Online learning mode,88.0,4,30,4,3,Intermediate,Yes,Online,No,Yes
+S0105,0.156,Green,Lower English proficiency + No university transport,95.0,2,11,1,3,Basic,Yes,Offline,Yes,No
+S0441,0.155,Green,No university transport,88.0,5,49,3,5,Intermediate,Yes,Offline,Yes,No
+S1126,0.155,Green,High social-media time,100.0,11,139,2,7,Advance,Yes,Offline,No,No
+S0420,0.155,Green,No scholarship + No university transport,95.0,1,0,4,2,Intermediate,No,Offline,Yes,No
+S0511,0.154,Green,Lower English proficiency + Online learning mode,90.0,2,5,2,3,Basic,Yes,Online,Yes,Yes
+S0112,0.154,Green,Low attendance + No university transport,80.0,4,36,3,3,Intermediate,Yes,Offline,Yes,No
+S0436,0.154,Green,Lower English proficiency + No university transport,90.0,2,12,10,2,Basic,Yes,Offline,No,No
+S0598,0.154,Green,Low attendance + Online learning mode,75.0,3,20,2,1,Intermediate,Yes,Online,Yes,Yes
+S0016,0.154,Green,Lower English proficiency + High social-media time,95.0,4,35,1,2,Basic,Yes,Offline,Yes,No
+S0899,0.154,Green,Lower English proficiency + Few study hours,100.0,9,103,5,1,Basic,Yes,Offline,Yes,No
+S0150,0.153,Green,No scholarship + High social-media time,88.0,2,11,2,4,Intermediate,No,Offline,Yes,No
+S0889,0.153,Green,No university transport,100.0,8,89,3,5,Intermediate,Yes,Offline,No,No
+S0534,0.153,Green,No scholarship + High social-media time,100.0,2,12,1,7,Intermediate,No,Offline,No,No
+S0925,0.152,Green,No scholarship + No university transport,100.0,9,132,5,5,Intermediate,No,Offline,Yes,No
+S0719,0.151,Green,Online learning mode + High social-media time,95.0,7,89,2,3,Intermediate,Yes,Online,Yes,No
+S0810,0.151,Green,No scholarship + No university transport,100.0,6,70,3,2,Intermediate,No,Offline,Yes,Yes
+S0545,0.151,Green,Online learning mode + High social-media time,95.0,3,26,2,4,Intermediate,Yes,Online,Yes,No
+S0386,0.151,Green,Lower English proficiency + Few study hours,98.0,1,0,2,1,Basic,Yes,Offline,Yes,No
+S0002,0.15,Green,Lower English proficiency + Online learning mode,96.0,4,36,3,3,Basic,Yes,Online,No,Yes
+S0957,0.15,Green,No university transport + Low attendance,87.0,10,129,7,4,Intermediate,Yes,Offline,No,Yes
+S1014,0.15,Green,No scholarship + No university transport,100.0,6,71,2,3,Intermediate,No,Offline,Yes,No
+S0487,0.15,Green,No scholarship + Lower English proficiency,98.0,1,0,3,1,Basic,No,Offline,No,No
+S0502,0.149,Green,Lower English proficiency + Online learning mode,85.0,2,11,3,3,Basic,Yes,Online,No,No
+S0906,0.149,Green,No scholarship + No university transport,100.0,7,109,7,4,Intermediate,No,Offline,Yes,No
+S0650,0.149,Green,No scholarship + Online learning mode,100.0,8,88,1,13,Advance,No,Online,No,No
+S0178,0.148,Green,Lower English proficiency + Online learning mode,92.0,2,11,0,3,Basic,Yes,Online,Yes,No
+S0361,0.148,Green,No university transport,99.0,7,76,6,5,Intermediate,Yes,Offline,Yes,No
+S0111,0.148,Green,Lower English proficiency + Low attendance,80.0,4,36,10,1,Basic,Yes,Offline,No,Yes
+S0725,0.147,Green,No dominant actionable driver,96.0,11,119,5,3,Intermediate,Yes,Offline,No,No
+S0304,0.147,Green,Few study hours + Low attendance,85.0,3,23,2,1,Intermediate,Yes,Offline,Yes,No
+S0230,0.147,Green,Lower English proficiency,90.0,9,99,3,6,Basic,Yes,Offline,Yes,No
+S0434,0.147,Green,Lower English proficiency + No university transport,100.0,3,23,2,4,Basic,Yes,Offline,No,No
+S0507,0.147,Green,Lower English proficiency + Online learning mode,90.0,2,11,2,1,Basic,Yes,Online,No,Yes
+S0728,0.146,Green,No dominant actionable driver,99.0,11,127,10,4,Intermediate,Yes,Offline,Yes,No
+S1127,0.146,Green,No scholarship + Lower English proficiency,100.0,2,27,5,3,Basic,No,Online,No,No
+S0797,0.146,Green,No university transport + High social-media time,100.0,11,136,2,4,Advance,Yes,Offline,Yes,No
+S0291,0.145,Green,Lower English proficiency + No university transport,90.0,2,14,3,5,Basic,Yes,Offline,Yes,No
+S0540,0.145,Green,No scholarship + Lower English proficiency,99.0,2,11,2,5,Basic,No,Offline,No,No
+S0011,0.145,Green,Online learning mode,90.0,4,36,3,3,Intermediate,Yes,Online,Yes,No
+S0654,0.144,Green,Lower English proficiency,100.0,8,70,3,3,Basic,Yes,Offline,Yes,Yes
+S0340,0.144,Green,Lower English proficiency + High social-media time,88.0,2,11,2,8,Basic,Yes,Offline,Yes,No
+S0248,0.143,Green,No scholarship + High social-media time,98.0,2,11,2,3,Intermediate,No,Offline,No,No
+S0457,0.143,Green,Online learning mode + No university transport,99.0,3,23,4,2,Intermediate,Yes,Online,Yes,No
+S0639,0.143,Green,Low attendance,70.0,3,23,4,3,Intermediate,Yes,Offline,No,No
+S0096,0.142,Green,Lower English proficiency + No university transport,100.0,2,11,1,2,Basic,Yes,Offline,Yes,No
+S1079,0.142,Green,Few study hours + High social-media time,100.0,11,132,2,1,Advance,Yes,Offline,No,No
+S0531,0.142,Green,Lower English proficiency + No university transport,90.0,3,23,1,3,Basic,Yes,Offline,Yes,No
+S0344,0.142,Green,No scholarship + High social-media time,100.0,3,26,2,4,Intermediate,No,Offline,No,Yes
+S0975,0.142,Green,No scholarship + Online learning mode,100.0,5,87,3,6,Intermediate,No,Online,No,No
+S0036,0.141,Green,Low attendance + Online learning mode,80.0,2,11,1,3,Intermediate,Yes,Online,No,No
+S0030,0.141,Green,No university transport + High social-media time,100.0,4,36,2,3,Intermediate,Yes,Offline,Yes,No
+S0107,0.141,Green,High social-media time,90.0,4,27,1,4,Intermediate,Yes,Offline,No,No
+S0069,0.14,Green,No scholarship + No university transport,100.0,2,11,2,3,Intermediate,No,Offline,Yes,No
+S0518,0.14,Green,Lower English proficiency + No university transport,90.0,2,12,5,3,Basic,Yes,Offline,Yes,No
+S0048,0.14,Green,Online learning mode + Few study hours,90.0,2,11,1,1,Intermediate,Yes,Online,No,No
+S0369,0.14,Green,No scholarship + No university transport,100.0,3,24,3,4,Intermediate,No,Offline,No,No
+S1137,0.139,Green,No scholarship,100.0,7,100,5,3,Intermediate,No,Offline,No,No
+S0500,0.139,Green,No scholarship + High social-media time,98.0,2,11,2,3,Intermediate,No,Offline,No,No
+S0023,0.139,Green,No university transport + Few study hours,98.0,4,36,2,2,Intermediate,Yes,Offline,Yes,No
+S1130,0.139,Green,No dominant actionable driver,100.0,11,145,5,5,Intermediate,Yes,Offline,Yes,No
+S0021,0.138,Green,No university transport + High social-media time,96.0,4,34,2,3,Intermediate,Yes,Offline,Yes,No
+S0560,0.138,Green,Few study hours,97.0,7,76,3,1,Intermediate,Yes,Offline,No,No
+S0917,0.138,Green,No university transport + Few study hours,100.0,10,138,2,2,Intermediate,Yes,Offline,No,No
+S0464,0.137,Green,Few study hours + No university transport,90.0,2,12,4,1,Intermediate,Yes,Offline,No,No
+S0516,0.137,Green,Lower English proficiency + Few study hours,88.0,2,11,4,1,Basic,Yes,Offline,No,No
+S0237,0.137,Green,No scholarship + No university transport,100.0,1,0,2,7,Intermediate,No,Offline,Yes,No
+S0196,0.136,Green,No university transport,99.0,11,126,5,5,Advance,Yes,Offline,No,No
+S0273,0.136,Green,Lower English proficiency + Few study hours,95.0,3,24,1,1,Basic,Yes,Offline,Yes,No
+S1121,0.136,Green,No scholarship,100.0,6,79,6,4,Intermediate,No,Offline,Yes,No
+S0568,0.136,Green,No scholarship + High social-media time,100.0,2,14,2,3,Intermediate,No,Offline,No,No
+S0504,0.136,Green,No scholarship + Few study hours,98.0,2,11,4,2,Intermediate,No,Offline,Yes,No
+S0205,0.136,Green,Lower English proficiency + Online learning mode,85.0,2,11,3,3,Basic,Yes,Online,Yes,Yes
+S0665,0.136,Green,Lower English proficiency + Online learning mode,95.0,2,11,10,2,Basic,Yes,Online,No,No
+S0064,0.135,Green,No university transport,95.0,8,80,5,3,Intermediate,Yes,Offline,Yes,No
+S0744,0.135,Green,Lower English proficiency + Low attendance,80.0,5,65,5,3,Basic,Yes,Offline,No,No
+S0499,0.135,Green,Lower English proficiency + Online learning mode,100.0,2,12,2,4,Basic,Yes,Online,No,No
+S0589,0.135,Green,Online learning mode + Few study hours,100.0,8,88,2,2,Intermediate,Yes,Online,Yes,No
+S0679,0.135,Green,No university transport + Few study hours,90.0,3,24,2,2,Intermediate,Yes,Offline,Yes,No
+S0530,0.134,Green,Lower English proficiency + No university transport,95.0,2,11,2,3,Basic,Yes,Offline,No,No
+S0459,0.134,Green,No university transport + High social-media time,90.0,4,32,2,3,Intermediate,Yes,Offline,Yes,Yes
+S1017,0.134,Green,No scholarship + No university transport,100.0,7,109,6,4,Advance,No,Offline,No,No
+S1160,0.134,Green,No scholarship + Few study hours,100.0,5,60,3,2,Advance,No,Offline,Yes,No
+S1134,0.133,Green,Online learning mode,100.0,11,103,12,5,Intermediate,Yes,Online,Yes,No
+S0605,0.133,Green,No university transport + High social-media time,99.0,11,130,2,8,Intermediate,Yes,Offline,No,No
+S0697,0.133,Green,Lower English proficiency + Few study hours,90.0,2,12,2,1,Basic,Yes,Offline,No,No
+S0640,0.133,Green,No university transport + Low attendance,85.0,3,23,2,2,Intermediate,Yes,Offline,Yes,No
+S0017,0.132,Green,Online learning mode + High social-media time,95.0,4,36,1,5,Intermediate,Yes,Online,Yes,No
+S0183,0.132,Green,No university transport + High social-media time,90.0,4,33,1,7,Intermediate,Yes,Offline,No,No
+S0818,0.132,Green,No university transport + High social-media time,100.0,9,100,2,4,Advance,Yes,Offline,Yes,Yes
+S0446,0.132,Green,High social-media time,88.0,4,23,2,5,Intermediate,Yes,Offline,Yes,No
+S1175,0.132,Green,No dominant actionable driver,90.0,11,144,3,6,Intermediate,Yes,Offline,Yes,No
+S0006,0.132,Green,High social-media time + Few study hours,95.0,4,36,1,2,Intermediate,Yes,Offline,Yes,No
+S0035,0.131,Green,Lower English proficiency + Few study hours,95.0,2,11,2,1,Basic,Yes,Offline,No,No
+S0551,0.131,Green,Online learning mode + High social-media time,98.0,7,76,1,4,Intermediate,Yes,Online,Yes,No
+S0366,0.13,Green,No scholarship + High social-media time,98.0,3,25,2,4,Intermediate,No,Offline,No,No
+S0298,0.13,Green,No scholarship + No university transport,97.0,2,23,3,9,Intermediate,No,Offline,No,Yes
+S0004,0.13,Green,Few study hours + No university transport,88.0,4,36,2,1,Intermediate,Yes,Offline,Yes,No
+S1155,0.13,Green,Online learning mode + High social-media time,100.0,11,143,2,6,Advance,Yes,Online,Yes,No
+S0365,0.13,Green,Lower English proficiency + Few study hours,90.0,2,12,2,1,Basic,Yes,Offline,No,No
+S0250,0.13,Green,Lower English proficiency + No university transport,88.0,1,0,3,5,Basic,Yes,Offline,No,No
+S1151,0.129,Green,Few study hours,100.0,11,145,4,2,Intermediate,Yes,Offline,Yes,No
+S0103,0.129,Green,No university transport,90.0,8,88,4,3,Intermediate,Yes,Offline,Yes,No
+S0849,0.129,Green,No university transport + High social-media time,100.0,11,135,2,4,Advance,Yes,Offline,Yes,No
+S0218,0.129,Green,No dominant actionable driver,90.0,9,89,6,4,Intermediate,Yes,Offline,No,No
+S0680,0.129,Green,No university transport + Few study hours,95.0,3,24,3,2,Intermediate,Yes,Offline,Yes,No
+S1119,0.128,Green,No scholarship + High social-media time,100.0,5,58,2,3,Advance,No,Offline,Yes,No
+S0236,0.128,Green,Low attendance + Online learning mode,75.0,2,11,12,5,Intermediate,Yes,Online,Yes,No
+S0052,0.128,Green,Few study hours + High social-media time,88.0,2,11,2,2,Intermediate,Yes,Offline,No,No
+S0860,0.128,Green,No scholarship + No university transport,100.0,8,119,4,5,Advance,No,Offline,Yes,No
+S0853,0.127,Green,No scholarship + Online learning mode,100.0,5,107,8,4,Intermediate,No,Online,No,No
+S0567,0.127,Green,High social-media time + Few study hours,100.0,8,86,1,2,Intermediate,Yes,Offline,Yes,No
+S0977,0.127,Green,No university transport,97.0,11,139,5,3,Advance,Yes,Offline,Yes,No
+S1165,0.127,Green,Few study hours,100.0,10,91,6,2,Intermediate,Yes,Offline,No,No
+S0009,0.126,Green,No university transport + High social-media time,90.0,4,36,2,3,Intermediate,Yes,Offline,No,No
+S0045,0.126,Green,Online learning mode + High social-media time,90.0,2,11,2,4,Intermediate,Yes,Online,Yes,No
+S0539,0.126,Green,Online learning mode + Few study hours,90.0,2,12,2,2,Intermediate,Yes,Online,Yes,No
+S0187,0.126,Green,Few study hours + No university transport,85.0,2,11,2,1,Intermediate,Yes,Offline,No,No
+S0092,0.126,Green,High social-media time,88.0,2,11,2,4,Intermediate,Yes,Offline,Yes,No
+S0429,0.125,Green,No scholarship + High social-media time,100.0,1,0,1,4,Intermediate,No,Offline,Yes,No
+S0696,0.125,Green,No university transport + Low attendance,85.0,1,0,2,4,Intermediate,Yes,Offline,No,No
+S1111,0.125,Green,No scholarship,88.0,5,87,8,3,Intermediate,No,Offline,No,No
+S0270,0.125,Green,Low attendance + Few study hours,80.0,1,0,7,1,Intermediate,Yes,Offline,No,No
+S1158,0.125,Green,No scholarship + Online learning mode,100.0,7,99,8,5,Advance,No,Online,No,No
+S0276,0.124,Green,Low attendance + High social-media time,70.0,3,25,2,3,Advance,Yes,Offline,Yes,No
+S0061,0.124,Green,Low attendance + Few study hours,75.0,2,11,4,1,Intermediate,Yes,Offline,Yes,No
+S0034,0.124,Green,No university transport + High social-media time,100.0,4,36,2,8,Intermediate,Yes,Offline,No,No
+S0644,0.124,Green,Low attendance + Online learning mode,80.0,2,11,6,1,Intermediate,Yes,Online,No,No
+S0047,0.124,Green,No university transport,95.0,2,11,3,5,Intermediate,Yes,Offline,Yes,No
+S1103,0.123,Green,No scholarship,89.0,6,132,3,7,Intermediate,No,Offline,No,No
+S1113,0.123,Green,Online learning mode + High social-media time,100.0,6,56,1,2,Intermediate,Yes,Online,Yes,No
+S0151,0.122,Green,Low attendance + Few study hours,80.0,4,36,2,2,Advance,Yes,Offline,Yes,No
+S0781,0.122,Green,Few study hours + No university transport,100.0,11,136,7,1,Advance,Yes,Offline,Yes,No
+S0262,0.122,Green,No scholarship + Few study hours,95.0,3,23,3,2,Intermediate,No,Offline,Yes,No
+S0192,0.122,Green,No university transport + Few study hours,90.0,2,11,3,2,Intermediate,Yes,Offline,Yes,No
+S0437,0.122,Green,No university transport + High social-media time,95.0,2,11,1,4,Intermediate,Yes,Offline,Yes,No
+S0166,0.121,Green,Lower English proficiency + No university transport,90.0,2,11,6,4,Basic,Yes,Offline,Yes,No
+S0425,0.121,Green,No university transport,98.0,2,11,3,4,Intermediate,Yes,Offline,Yes,No
+S0254,0.12,Green,No university transport + High social-media time,95.0,3,23,2,5,Intermediate,Yes,Offline,Yes,No
+S0974,0.12,Green,No university transport,100.0,8,109,3,4,Advance,Yes,Offline,No,No
+S0411,0.12,Green,No scholarship + High social-media time,100.0,2,11,1,3,Advance,No,Offline,Yes,No
+S0928,0.12,Green,No university transport + High social-media time,100.0,11,144,2,6,Intermediate,Yes,Offline,No,No
+S0863,0.119,Green,No university transport + Few study hours,100.0,2,12,2,2,Intermediate,Yes,Offline,Yes,No
+S0255,0.119,Green,Online learning mode + Few study hours,90.0,3,35,2,1,Intermediate,Yes,Online,Yes,No
+S0428,0.118,Green,No university transport,90.0,2,11,4,3,Intermediate,Yes,Offline,Yes,Yes
+S0474,0.118,Green,Few study hours,90.0,2,11,3,1,Intermediate,Yes,Offline,No,No
+S0115,0.118,Green,No university transport + High social-media time,95.0,2,11,2,4,Intermediate,Yes,Offline,Yes,No
+S0168,0.118,Green,No dominant actionable driver,90.0,2,11,4,3,Intermediate,Yes,Offline,Yes,No
+S0310,0.117,Green,Lower English proficiency + No university transport,100.0,1,11,2,4,Basic,Yes,Offline,Yes,No
+S0333,0.117,Green,Lower English proficiency + Few study hours,90.0,3,24,2,2,Basic,Yes,Offline,No,No
+S0097,0.117,Green,Low attendance + Few study hours,82.0,4,36,2,2,Advance,Yes,Offline,Yes,No
+S0615,0.117,Green,Lower English proficiency + High social-media time,97.0,1,0,1,2,Basic,Yes,Offline,Yes,No
+S0515,0.117,Green,Online learning mode + No university transport,100.0,2,11,1,2,Intermediate,Yes,Online,Yes,No
+S0481,0.117,Green,Lower English proficiency + No university transport,90.0,2,11,3,3,Basic,Yes,Offline,No,No
+S0008,0.117,Green,Lower English proficiency + No university transport,100.0,4,35,2,2,Basic,Yes,Offline,Yes,Yes
+S0414,0.116,Green,No university transport + High social-media time,100.0,2,11,2,4,Intermediate,Yes,Offline,Yes,No
+S0352,0.116,Green,Online learning mode + No university transport,90.0,2,11,3,2,Intermediate,Yes,Online,No,No
+S0981,0.116,Green,No university transport + High social-media time,100.0,11,139,2,6,Advance,Yes,Offline,Yes,No
+S0396,0.116,Green,Low attendance + Few study hours,80.0,2,12,12,2,Intermediate,Yes,Offline,No,No
+S0717,0.116,Green,No dominant actionable driver,94.0,8,85,4,3,Intermediate,Yes,Offline,No,No
+S0739,0.116,Green,No university transport + High social-media time,97.0,3,20,1,4,Advance,Yes,Offline,Yes,Yes
+S0799,0.116,Green,No scholarship + No university transport,100.0,10,132,8,2,Advance,No,Offline,Yes,No
+S0315,0.116,Green,Online learning mode + High social-media time,100.0,12,130,2,3,Advance,Yes,Online,Yes,No
+S0723,0.116,Green,Online learning mode,98.0,10,117,10,4,Intermediate,Yes,Online,Yes,No
+S0471,0.115,Green,No dominant actionable driver,90.0,2,11,3,4,Intermediate,Yes,Offline,Yes,No
+S0341,0.115,Green,Lower English proficiency + High social-media time,100.0,3,23,1,3,Basic,Yes,Offline,Yes,No
+S0794,0.114,Green,No university transport,90.0,7,102,5,3,Intermediate,Yes,Offline,No,No
+S0046,0.114,Green,Lower English proficiency + No university transport,95.0,2,11,1,4,Basic,Yes,Offline,Yes,No
+S0493,0.114,Green,Lower English proficiency + High social-media time,100.0,2,11,1,2,Basic,Yes,Offline,No,No
+S0200,0.114,Green,Lower English proficiency + High social-media time,100.0,2,11,2,4,Basic,Yes,Offline,No,No
+S1144,0.114,Green,No scholarship + Few study hours,95.0,7,97,2,2,Advance,No,Offline,Yes,No
+S0979,0.114,Green,Online learning mode + No university transport,90.0,5,72,9,5,Intermediate,Yes,Online,Yes,No
+S0509,0.114,Green,Lower English proficiency + No university transport,95.0,2,11,4,3,Basic,Yes,Offline,No,Yes
+S0447,0.114,Green,Lower English proficiency + Few study hours,97.0,1,0,3,0,Basic,Yes,Online,No,No
+S0475,0.113,Green,Lower English proficiency,90.0,2,12,8,8,Basic,Yes,Offline,No,No
+S0144,0.113,Green,No scholarship + High social-media time,99.0,2,11,1,3,Intermediate,No,Offline,No,No
+S0707,0.113,Green,Online learning mode + No university transport,98.0,2,12,3,3,Intermediate,Yes,Online,Yes,Yes
+S0014,0.113,Green,No university transport + High social-media time,90.0,4,36,1,3,Intermediate,Yes,Offline,No,No
+S0289,0.113,Green,No university transport,95.0,3,25,5,4,Intermediate,Yes,Offline,No,No
+S0891,0.112,Green,No university transport + Few study hours,100.0,8,113,4,2,Advance,Yes,Offline,No,No
+S0566,0.112,Green,Online learning mode + High social-media time,98.0,8,84,2,3,Advance,Yes,Online,Yes,No
+S1070,0.112,Green,No scholarship,100.0,7,111,5,4,Advance,No,Offline,No,No
+S0671,0.112,Green,Lower English proficiency + No university transport,100.0,3,23,3,4,Basic,Yes,Offline,Yes,No
+S0426,0.112,Green,No university transport + High social-media time,90.0,2,12,2,3,Intermediate,Yes,Offline,No,No
+S0607,0.112,Green,Lower English proficiency + No university transport,90.0,2,23,6,3,Basic,Yes,Offline,Yes,Yes
+S0303,0.112,Green,Low attendance,70.0,2,12,6,9,Intermediate,Yes,Offline,Yes,Yes
+S0171,0.111,Green,High social-media time,90.0,4,35,2,4,Intermediate,Yes,Offline,No,No
+S0172,0.111,Green,No university transport,90.0,9,100,3,8,Intermediate,Yes,Offline,Yes,No
+S0687,0.111,Green,No dominant actionable driver,90.0,8,90,3,3,Advance,Yes,Offline,No,No
+S0114,0.111,Green,No university transport,90.0,4,35,3,7,Advance,Yes,Offline,Yes,No
+S1161,0.111,Green,No scholarship,100.0,2,30,3,4,Intermediate,No,Offline,No,No
+S0562,0.111,Green,High social-media time,90.0,8,93,1,4,Intermediate,Yes,Offline,Yes,No
+S0523,0.111,Green,Lower English proficiency,90.0,2,11,4,3,Basic,Yes,Offline,No,Yes
+S0724,0.11,Green,High social-media time,90.0,8,75,2,5,Intermediate,Yes,Offline,Yes,No
+S0032,0.109,Green,High social-media time,95.0,2,11,2,4,Intermediate,Yes,Offline,Yes,No
+S0870,0.109,Green,No scholarship + Online learning mode,100.0,3,32,5,1,Advance,No,Online,No,No
+S0018,0.109,Green,Lower English proficiency + No university transport,97.0,4,36,2,5,Basic,Yes,Offline,No,No
+S0198,0.109,Green,Online learning mode + No university transport,90.0,2,12,6,2,Intermediate,Yes,Online,Yes,No
+S0505,0.108,Green,No university transport + High social-media time,92.0,2,11,1,2,Intermediate,Yes,Offline,No,No
+S0821,0.108,Green,No scholarship + Online learning mode,100.0,6,143,8,3,Advance,No,Online,No,No
+S0037,0.108,Green,Lower English proficiency + No university transport,99.0,2,11,3,2,Basic,Yes,Offline,Yes,No
+S0053,0.107,Green,High social-media time,95.0,2,11,1,5,Intermediate,Yes,Offline,Yes,No
+S0370,0.107,Green,Few study hours + No university transport,90.0,3,25,5,1,Intermediate,Yes,Offline,No,No
+S1157,0.107,Green,No scholarship + Few study hours,90.0,6,98,10,1,Advance,No,Offline,No,No
+S0614,0.107,Green,No university transport + High social-media time,100.0,8,87,2,5,Intermediate,Yes,Offline,Yes,No
+S0448,0.106,Green,Lower English proficiency + Low attendance,80.0,2,11,5,1,Basic,Yes,Online,No,Yes
+S0364,0.106,Green,No scholarship + No university transport,98.0,1,0,3,5,Intermediate,No,Offline,Yes,No
+S0734,0.106,Green,Low attendance + High social-media time,80.0,2,10,1,2,Intermediate,Yes,Offline,Yes,No
+S0073,0.106,Green,High social-media time,95.0,2,11,1,4,Intermediate,Yes,Offline,Yes,No
+S0959,0.106,Green,No university transport,100.0,10,138,3,7,Intermediate,Yes,Offline,No,No
+S0278,0.106,Green,High social-media time,99.0,3,23,1,4,Intermediate,Yes,Offline,Yes,No
+S0630,0.106,Green,Lower English proficiency + High social-media time,90.0,2,11,1,2,Basic,Yes,Offline,No,No
+S0714,0.105,Green,Lower English proficiency + No university transport,95.0,2,11,2,4,Basic,Yes,Offline,Yes,No
+S0044,0.105,Green,Online learning mode,90.0,2,11,6,5,Intermediate,Yes,Online,Yes,No
+S0268,0.105,Green,No university transport + High social-media time,95.0,3,23,2,5,Advance,Yes,Offline,Yes,No
+S0383,0.105,Green,Lower English proficiency + No university transport,99.0,1,10,3,2,Basic,Yes,Offline,No,No
+S0698,0.105,Green,No dominant actionable driver,100.0,8,87,3,4,Advance,Yes,Offline,Yes,No
+S0480,0.104,Green,Few study hours,90.0,3,24,3,2,Intermediate,Yes,Offline,No,No
+S0372,0.104,Green,Lower English proficiency + High social-media time,100.0,2,12,2,8,Basic,Yes,Offline,Yes,No
+S0399,0.104,Green,Lower English proficiency + No university transport,92.0,1,11,2,3,Basic,Yes,Offline,No,No
+S0382,0.104,Green,Online learning mode + Few study hours,92.0,3,23,2,2,Intermediate,Yes,Online,Yes,No
+S0634,0.104,Green,Lower English proficiency,90.0,2,11,5,3,Basic,Yes,Offline,Yes,No
+S0295,0.103,Green,Online learning mode + No university transport,99.0,2,11,1,3,Intermediate,Yes,Online,Yes,No
+S0146,0.103,Green,Online learning mode + High social-media time,100.0,2,11,1,7,Intermediate,Yes,Online,Yes,No
+S0435,0.103,Green,Lower English proficiency + No university transport,90.0,2,12,8,2,Basic,Yes,Offline,No,No
+S0078,0.103,Green,Lower English proficiency + High social-media time,99.0,2,11,2,5,Basic,Yes,Offline,Yes,No
+S0358,0.102,Green,Online learning mode + Few study hours,90.0,3,23,5,1,Intermediate,Yes,Online,Yes,No
+S0311,0.102,Green,Online learning mode + No university transport,95.0,3,23,6,5,Advance,Yes,Online,No,Yes
+S0058,0.102,Green,Few study hours + High social-media time,98.0,2,11,1,1,Intermediate,Yes,Offline,No,No
+S0417,0.102,Green,No university transport + High social-media time,90.0,2,13,2,3,Advance,Yes,Offline,Yes,No
+S0591,0.102,Green,No dominant actionable driver,95.0,7,76,4,3,Intermediate,Yes,Offline,No,No
+S0148,0.101,Green,No university transport,100.0,8,88,6,6,Intermediate,Yes,Offline,Yes,No
+S0514,0.101,Green,Online learning mode + High social-media time,100.0,2,11,1,4,Intermediate,Yes,Online,Yes,No
+S0604,0.1,Green,No university transport + Few study hours,98.0,8,90,2,2,Intermediate,Yes,Offline,Yes,No
+S0409,0.1,Green,No scholarship,100.0,2,11,4,3,Advance,No,Offline,Yes,No
+S0692,0.1,Green,No university transport,90.0,2,28,3,9,Advance,Yes,Offline,Yes,No
+S0648,0.1,Green,Lower English proficiency,95.0,2,12,5,3,Basic,Yes,Offline,Yes,No
+S0029,0.1,Green,Online learning mode + Few study hours,95.0,4,36,2,2,Intermediate,Yes,Online,Yes,No
+S0486,0.1,Green,Online learning mode,90.0,2,12,5,3,Advance,Yes,Online,Yes,No
+S0332,0.099,Green,No university transport + Few study hours,100.0,3,24,3,2,Intermediate,Yes,Offline,Yes,No
+S0098,0.099,Green,Few study hours + High social-media time,90.0,4,36,1,1,Intermediate,Yes,Offline,No,No
+S1168,0.099,Green,Low attendance + Online learning mode,70.0,4,60,10,8,Advance,Yes,Online,Yes,Yes
+S0561,0.099,Green,No dominant actionable driver,90.0,8,87,5,3,Advance,Yes,Offline,No,No
+S0043,0.098,Green,Lower English proficiency + High social-media time,98.0,2,11,1,3,Basic,Yes,Offline,Yes,No
+S0433,0.098,Green,Lower English proficiency + Online learning mode,98.0,1,11,8,3,Basic,Yes,Online,No,No
+S0284,0.098,Green,Online learning mode + Few study hours,100.0,1,0,2,1,Intermediate,Yes,Online,No,No
+S0194,0.097,Green,Online learning mode + Few study hours,95.0,9,105,5,2,Intermediate,Yes,Online,No,No
+S0508,0.097,Green,Lower English proficiency + No university transport,95.0,2,12,2,6,Basic,Yes,Offline,Yes,No
+S1108,0.097,Green,No dominant actionable driver,100.0,5,58,3,5,Intermediate,Yes,Offline,Yes,No
+S0376,0.097,Green,Lower English proficiency + No university transport,95.0,2,11,3,3,Basic,Yes,Offline,No,No
+S0463,0.097,Green,Lower English proficiency + Few study hours,95.0,2,11,2,2,Basic,Yes,Offline,Yes,No
+S0292,0.096,Green,No university transport + High social-media time,90.0,3,24,1,3,Intermediate,Yes,Offline,Yes,No
+S0159,0.096,Green,Lower English proficiency,90.0,2,11,3,3,Basic,Yes,Offline,Yes,No
+S0460,0.096,Green,Online learning mode + High social-media time,99.0,3,25,1,4,Intermediate,Yes,Online,No,No
+S0751,0.096,Green,Few study hours + No university transport,100.0,11,140,8,1,Advance,Yes,Offline,Yes,No
+S0327,0.096,Green,Lower English proficiency + Low attendance,80.0,3,23,15,0,Basic,Yes,Offline,No,Yes
+S0368,0.096,Green,No university transport + High social-media time,99.0,6,58,2,3,Intermediate,Yes,Offline,Yes,No
+S0110,0.096,Green,Lower English proficiency + High social-media time,100.0,2,11,2,3,Basic,Yes,Offline,Yes,No
+S0456,0.095,Green,High social-media time,88.0,3,25,2,3,Intermediate,Yes,Offline,No,No
+S1163,0.095,Green,Few study hours,100.0,9,120,3,2,Advance,Yes,Offline,No,Yes
+S0667,0.095,Green,Lower English proficiency + No university transport,99.0,3,8,3,7,Basic,Yes,Offline,Yes,Yes
+S0181,0.095,Green,Few study hours,95.0,1,0,6,1,Intermediate,Yes,Offline,No,No
+S0424,0.095,Green,No scholarship + High social-media time,99.0,1,11,1,3,Advance,No,Offline,Yes,No
+S0571,0.094,Green,Online learning mode + High social-media time,97.0,7,75,1,6,Advance,Yes,Online,No,No
+S0275,0.094,Green,Lower English proficiency + No university transport,100.0,1,0,2,8,Basic,Yes,Offline,Yes,No
+S0961,0.094,Green,No scholarship + No university transport,95.0,3,35,3,3,Advance,No,Offline,No,No
+S0444,0.094,Green,Online learning mode + Low attendance,85.0,3,23,2,2,Intermediate,Yes,Online,Yes,No
+S0335,0.094,Green,Lower English proficiency + No university transport,99.0,2,12,2,5,Basic,Yes,Offline,No,No
+S0317,0.093,Green,No university transport + High social-media time,100.0,3,23,2,3,Intermediate,Yes,Offline,No,No
+S0324,0.093,Green,Lower English proficiency + No university transport,90.0,3,24,12,2,Basic,Yes,Offline,No,No
+S1124,0.093,Green,High social-media time,100.0,11,143,2,4,Intermediate,Yes,Offline,No,Yes
+S0050,0.092,Green,Lower English proficiency + No university transport,90.0,2,11,5,7,Basic,Yes,Offline,Yes,No
+S0737,0.092,Green,No dominant actionable driver,90.0,3,23,3,4,Intermediate,Yes,Offline,Yes,No
+S0627,0.092,Green,Lower English proficiency + No university transport,99.0,1,13,2,2,Basic,Yes,Offline,Yes,No
+S0060,0.092,Green,Few study hours,99.0,2,11,4,2,Intermediate,Yes,Offline,No,No
+S0252,0.091,Green,No university transport,98.0,1,0,3,4,Intermediate,Yes,Offline,Yes,No
+S0574,0.091,Green,Lower English proficiency + Few study hours,90.0,2,11,5,2,Basic,Yes,Offline,Yes,No
+S0451,0.091,Green,Few study hours + No university transport,100.0,4,25,2,1,Intermediate,Yes,Offline,No,No
+S0521,0.091,Green,Online learning mode + No university transport,98.0,2,13,2,6,Intermediate,Yes,Online,Yes,No
+S0326,0.091,Green,Online learning mode + No university transport,100.0,2,11,5,3,Intermediate,Yes,Online,Yes,No
+S0472,0.091,Green,Lower English proficiency + No university transport,100.0,1,11,1,2,Basic,Yes,Offline,No,No
+S0647,0.09,Green,Few study hours + No university transport,99.0,2,12,2,1,Intermediate,Yes,Offline,No,No
+S0059,0.09,Green,Online learning mode + Low attendance,85.0,2,11,3,4,Intermediate,Yes,Online,Yes,No
+S0418,0.09,Green,High social-media time,90.0,8,87,2,4,Advance,Yes,Offline,No,No
+S0423,0.09,Green,Lower English proficiency + No university transport,98.0,2,11,2,4,Basic,Yes,Offline,No,No
+S1062,0.09,Green,No scholarship,100.0,6,88,3,7,Advance,No,Offline,Yes,Yes
+S1076,0.09,Green,Few study hours,100.0,5,39,7,1,Intermediate,Yes,Offline,Yes,No
+S0388,0.09,Green,No university transport + Few study hours,100.0,3,23,4,2,Intermediate,Yes,Offline,No,No
+S0673,0.089,Green,High social-media time,95.0,2,12,2,3,Intermediate,Yes,Offline,Yes,No
+S0055,0.089,Green,Lower English proficiency + High social-media time,100.0,2,11,1,2,Basic,Yes,Offline,Yes,No
+S0251,0.089,Green,Few study hours + High social-media time,100.0,1,0,1,1,Intermediate,Yes,Offline,No,No
+S0305,0.089,Green,Lower English proficiency + Few study hours,100.0,3,25,3,2,Basic,Yes,Offline,Yes,No
+S0263,0.089,Green,High social-media time,90.0,5,49,2,3,Intermediate,Yes,Offline,Yes,No
+S0062,0.089,Green,Low attendance,85.0,4,36,4,3,Intermediate,Yes,Offline,Yes,No
+S0051,0.089,Green,Online learning mode + Few study hours,90.0,2,11,3,2,Intermediate,Yes,Online,No,No
+S0592,0.088,Green,Lower English proficiency + No university transport,100.0,2,11,2,5,Basic,Yes,Offline,Yes,No
+S0498,0.088,Green,High social-media time,98.0,2,11,2,5,Intermediate,Yes,Offline,Yes,Yes
+S0774,0.088,Green,No university transport,100.0,9,127,3,5,Advance,Yes,Offline,No,No
+S0320,0.088,Green,Few study hours + High social-media time,95.0,3,30,1,1,Intermediate,Yes,Offline,Yes,No
+S0823,0.087,Green,Online learning mode + No university transport,100.0,10,139,3,7,Advance,Yes,Online,No,No
+S0887,0.087,Green,No university transport,100.0,11,141,7,6,Advance,Yes,Offline,No,No
+S0316,0.087,Green,Lower English proficiency,100.0,3,25,4,3,Basic,Yes,Offline,Yes,No
+S0445,0.087,Green,Lower English proficiency + High social-media time,100.0,2,12,1,3,Basic,Yes,Offline,Yes,No
+S0997,0.086,Green,No university transport,100.0,9,125,3,6,Advance,Yes,Offline,No,No
+S0709,0.086,Green,High social-media time,98.0,8,87,2,5,Intermediate,Yes,Offline,No,No
+S1086,0.086,Green,No dominant actionable driver,100.0,10,134,3,6,Advance,Yes,Offline,No,No
+S0469,0.086,Green,Lower English proficiency + Online learning mode,98.0,2,12,12,5,Basic,Yes,Online,Yes,No
+S0342,0.086,Green,High social-media time,100.0,3,25,1,8,Intermediate,Yes,Offline,No,No
+S0691,0.086,Green,Lower English proficiency + No university transport,100.0,2,12,6,3,Basic,Yes,Offline,No,No
+S0700,0.085,Green,Online learning mode + No university transport,95.0,1,0,1,2,Intermediate,Yes,Online,Yes,No
+S0546,0.085,Green,Online learning mode + High social-media time,95.0,2,11,1,3,Intermediate,Yes,Online,Yes,No
+S0232,0.085,Green,Few study hours + High social-media time,95.0,9,101,2,2,Advance,Yes,Offline,No,No
+S0360,0.084,Green,No university transport,99.0,2,11,3,3,Intermediate,Yes,Offline,Yes,Yes
+S0041,0.084,Green,Lower English proficiency + No university transport,100.0,2,11,6,5,Basic,Yes,Offline,Yes,No
+S0318,0.084,Green,No university transport + High social-media time,100.0,3,23,1,3,Intermediate,Yes,Offline,Yes,No
+S0286,0.084,Green,Online learning mode + High social-media time,90.0,3,24,1,2,Intermediate,Yes,Online,Yes,No
+S0185,0.084,Green,Lower English proficiency + High social-media time,100.0,2,11,2,6,Basic,Yes,Offline,Yes,No
+S0220,0.083,Green,No dominant actionable driver,90.0,2,11,5,4,Intermediate,Yes,Offline,No,No
+S0548,0.083,Green,Lower English proficiency,100.0,2,11,3,4,Basic,Yes,Offline,Yes,No
+S0547,0.083,Green,Lower English proficiency,100.0,2,11,3,4,Basic,Yes,Offline,Yes,No
+S0683,0.083,Green,Few study hours + High social-media time,95.0,2,11,1,1,Intermediate,Yes,Offline,No,No
+S0828,0.082,Green,No university transport,100.0,7,88,4,5,Advance,Yes,Offline,No,No
+S0596,0.082,Green,Online learning mode + High social-media time,99.0,2,11,1,5,Intermediate,Yes,Online,Yes,No
+S0905,0.082,Green,No university transport + Few study hours,99.0,5,54,4,2,Intermediate,Yes,Offline,Yes,No
+S0555,0.082,Green,Few study hours + High social-media time,95.0,8,90,2,0,Advance,Yes,Offline,No,No
+S1058,0.082,Green,No university transport + High social-media time,100.0,7,104,2,5,Advance,Yes,Offline,Yes,No
+S1154,0.081,Green,No dominant actionable driver,100.0,4,29,4,5,Advance,Yes,Offline,Yes,No
+S0690,0.081,Green,Lower English proficiency + High social-media time,100.0,2,11,2,4,Basic,Yes,Offline,Yes,No
+S0769,0.081,Green,No university transport,100.0,4,46,4,3,Intermediate,Yes,Offline,Yes,No
+S0720,0.081,Green,Online learning mode,100.0,2,11,3,5,Intermediate,Yes,Online,Yes,No
+S0580,0.081,Green,Lower English proficiency,100.0,2,11,4,3,Basic,Yes,Offline,No,No
+S0357,0.081,Green,No university transport + High social-media time,100.0,2,11,2,5,Intermediate,Yes,Offline,No,No
+S0597,0.081,Green,Lower English proficiency + Few study hours,100.0,2,12,4,0,Basic,Yes,Offline,No,No
+S1114,0.08,Green,High social-media time,100.0,8,125,2,7,Advance,Yes,Offline,No,No
+S0613,0.08,Green,Lower English proficiency,100.0,1,12,3,3,Basic,Yes,Offline,No,No
+S0054,0.079,Green,No university transport + High social-media time,100.0,2,12,2,3,Intermediate,Yes,Offline,No,No
+S0467,0.078,Green,No university transport + High social-media time,98.0,3,23,1,4,Intermediate,Yes,Offline,Yes,No
+S0632,0.078,Green,Few study hours + High social-media time,98.0,2,11,2,2,Intermediate,Yes,Offline,Yes,No
+S0513,0.078,Green,Online learning mode + No university transport,100.0,2,12,2,3,Intermediate,Yes,Online,Yes,No
+S0512,0.078,Green,High social-media time + Few study hours,88.0,2,11,1,2,Intermediate,Yes,Offline,Yes,No
+S0031,0.078,Green,Online learning mode,90.0,2,11,4,3,Intermediate,Yes,Online,Yes,No
+S0355,0.077,Green,High social-media time + Few study hours,100.0,3,25,1,2,Intermediate,Yes,Offline,Yes,No
+S0387,0.077,Green,Lower English proficiency + High social-media time,99.0,1,13,1,2,Basic,Yes,Offline,Yes,Yes
+S0221,0.077,Green,No university transport + High social-media time,95.0,1,11,2,5,Intermediate,Yes,Offline,No,No
+S0349,0.077,Green,Lower English proficiency + Few study hours,95.0,1,11,3,1,Basic,Yes,Offline,No,No
+S0258,0.076,Green,No dominant actionable driver,100.0,3,26,5,5,Intermediate,Yes,Offline,Yes,No
+S0116,0.076,Green,No university transport,95.0,2,11,3,5,Intermediate,Yes,Offline,No,No
+S0600,0.076,Green,Lower English proficiency + Few study hours,100.0,1,12,8,2,Basic,Yes,Offline,Yes,No
+S0395,0.076,Green,Few study hours + No university transport,90.0,3,23,3,1,Advance,Yes,Offline,Yes,Yes
+S0249,0.075,Green,Online learning mode,88.0,1,11,3,3,Advance,Yes,Online,Yes,No
+S0079,0.074,Green,Lower English proficiency,100.0,2,11,4,4,Basic,Yes,Offline,Yes,No
+S0401,0.074,Green,High social-media time + Few study hours,98.0,2,12,1,2,Intermediate,Yes,Offline,Yes,No
+S0393,0.074,Green,No university transport + High social-media time,100.0,3,23,2,4,Advance,Yes,Offline,Yes,No
+S0057,0.074,Green,Few study hours + No university transport,100.0,2,11,2,1,Intermediate,Yes,Offline,No,No
+S0216,0.074,Green,No university transport,90.0,2,11,6,5,Intermediate,Yes,Offline,No,No
+S0497,0.074,Green,Online learning mode + Few study hours,100.0,1,0,3,1,Intermediate,Yes,Online,Yes,No
+S0543,0.074,Green,High social-media time,100.0,2,11,2,4,Intermediate,Yes,Offline,No,No
+S0661,0.073,Green,High social-media time,98.0,1,0,2,3,Intermediate,Yes,Offline,Yes,No
+S1115,0.073,Green,No dominant actionable driver,100.0,6,35,6,6,Intermediate,Yes,Offline,Yes,No
+S0217,0.073,Green,Lower English proficiency + Few study hours,100.0,1,14,6,2,Basic,Yes,Offline,No,Yes
+S0010,0.072,Green,High social-media time,100.0,4,36,2,5,Intermediate,Yes,Offline,Yes,No
+S0040,0.072,Green,No dominant actionable driver,98.0,2,11,3,5,Advance,Yes,Offline,Yes,No
+S1034,0.072,Green,No university transport,100.0,2,29,4,6,Intermediate,Yes,Offline,No,No
+S0290,0.072,Green,Lower English proficiency + Few study hours,100.0,1,11,2,1,Basic,Yes,Offline,No,No
+S0334,0.071,Green,Lower English proficiency + Few study hours,100.0,3,20,5,2,Basic,Yes,Offline,No,Yes
+S0488,0.071,Green,Lower English proficiency,96.0,1,12,3,4,Basic,Yes,Offline,Yes,Yes
+S0494,0.071,Green,Few study hours,100.0,1,0,7,2,Intermediate,Yes,Offline,Yes,No
+S0404,0.07,Green,No university transport + High social-media time,100.0,1,0,2,3,Advance,Yes,Offline,Yes,No
+S0896,0.07,Green,No university transport + High social-media time,100.0,5,81,1,6,Advance,Yes,Offline,No,No
+S0549,0.07,Green,Online learning mode + No university transport,98.0,3,32,2,4,Advance,Yes,Online,Yes,Yes
+S0584,0.069,Green,High social-media time,90.0,2,11,2,3,Intermediate,Yes,Offline,Yes,No
+S1102,0.069,Green,High social-media time + Few study hours,100.0,10,135,1,2,Advance,Yes,Offline,No,No
+S1125,0.069,Green,No dominant actionable driver,100.0,9,137,6,3,Advance,Yes,Offline,No,No
+S0468,0.069,Green,High social-media time + Few study hours,100.0,2,11,1,2,Intermediate,Yes,Offline,No,No
+S1072,0.069,Green,No dominant actionable driver,100.0,9,129,3,5,Advance,Yes,Offline,No,No
+S0541,0.069,Green,No dominant actionable driver,95.0,2,12,3,3,Intermediate,Yes,Offline,Yes,Yes
+S0257,0.069,Green,No university transport + High social-media time,90.0,3,24,2,3,Advance,Yes,Offline,Yes,No
+S0226,0.069,Green,No university transport + High social-media time,95.0,2,11,1,6,Intermediate,Yes,Offline,No,No
+S0225,0.069,Green,No dominant actionable driver,100.0,8,88,15,5,Advance,Yes,Offline,No,No
+S1025,0.068,Green,High social-media time,100.0,8,97,2,8,Advance,Yes,Offline,No,No
+S0219,0.068,Green,Lower English proficiency,100.0,1,11,6,3,Basic,Yes,Offline,Yes,No
+S0397,0.066,Green,High social-media time,95.0,1,0,2,6,Intermediate,Yes,Offline,No,No
+S0285,0.066,Green,Lower English proficiency + High social-media time,100.0,1,11,2,4,Basic,Yes,Offline,Yes,Yes
+S0246,0.065,Green,Few study hours + No university transport,99.0,2,11,4,1,Intermediate,Yes,Offline,No,No
+S0392,0.064,Green,No dominant actionable driver,98.0,3,23,3,3,Advance,Yes,Offline,Yes,No
+S0336,0.064,Green,High social-media time + Few study hours,96.0,3,25,1,2,Intermediate,Yes,Offline,Yes,No
+S0729,0.062,Green,Lower English proficiency + High social-media time,100.0,1,11,2,3,Basic,Yes,Offline,Yes,No
+S0583,0.062,Green,Lower English proficiency + High social-media time,95.0,4,25,2,10,Basic,Yes,Offline,No,Yes
+S0492,0.06,Green,Lower English proficiency + Few study hours,100.0,1,0,8,2,Basic,Yes,Offline,No,No
+S0954,0.058,Green,No university transport + High social-media time,100.0,7,102,2,5,Advance,Yes,Offline,Yes,No
+S0244,0.058,Green,Lower English proficiency + High social-media time,100.0,1,0,1,6,Basic,Yes,Offline,Yes,No
+S0544,0.058,Green,High social-media time,98.0,2,11,2,3,Intermediate,Yes,Offline,Yes,Yes
+S0699,0.058,Green,High social-media time,95.0,1,0,2,3,Advance,Yes,Offline,Yes,No
+S0350,0.058,Green,No university transport + High social-media time,98.0,3,23,2,8,Intermediate,Yes,Offline,Yes,No
+S0402,0.057,Green,No dominant actionable driver,100.0,2,12,3,3,Intermediate,Yes,Offline,No,No
+S0102,0.056,Green,Few study hours,90.0,2,11,5,2,Intermediate,Yes,Offline,Yes,No
+S0405,0.056,Green,No dominant actionable driver,99.0,3,25,4,5,Intermediate,Yes,Offline,Yes,No
+S0068,0.056,Green,Online learning mode + No university transport,95.0,2,11,2,3,Advance,Yes,Online,Yes,No
+S0330,0.054,Green,Online learning mode,90.0,1,11,4,6,Intermediate,Yes,Online,Yes,Yes
+S0501,0.054,Green,No university transport,100.0,2,10,3,3,Intermediate,Yes,Offline,Yes,Yes
+S0339,0.053,Green,Lower English proficiency + Few study hours,98.0,1,0,3,2,Basic,Yes,Offline,Yes,No
+S0039,0.053,Green,No dominant actionable driver,100.0,2,11,4,4,Intermediate,Yes,Offline,Yes,No
+S0322,0.052,Green,Lower English proficiency + High social-media time,100.0,2,90,2,3,Basic,Yes,Offline,Yes,No
+S1101,0.051,Green,No dominant actionable driver,100.0,3,51,3,4,Intermediate,Yes,Offline,No,No
+S0624,0.05,Green,Few study hours,99.0,2,12,4,1,Intermediate,Yes,Offline,No,No
+S0302,0.048,Green,Few study hours,98.0,2,12,3,2,Intermediate,Yes,Offline,Yes,No
+S0346,0.045,Green,Few study hours,100.0,1,0,7,2,Advance,Yes,Offline,Yes,No
+S1146,0.041,Green,No dominant actionable driver,100.0,7,115,3,6,Advance,Yes,Offline,No,No
+S0443,0.041,Green,No university transport,100.0,1,0,3,4,Advance,Yes,Offline,Yes,No
+S0626,0.038,Green,Few study hours,100.0,1,0,5,2,Intermediate,Yes,Offline,Yes,No
+S0264,0.031,Green,High social-media time,100.0,1,0,1,3,Advance,Yes,Offline,Yes,No

@@ -1,0 +1,6 @@
+model,train_rmse,test_rmse,test_r2
+"OLS (full, 15 predictors)",0.4551,0.402,0.1644
+"OLS (stepwise subset, k=7)",0.456,0.4002,0.1721
+Ridge (CV-tuned),0.4551,0.4018,0.1654
+Lasso (CV-tuned),0.456,0.399,0.1771
+ElasticNet (CV-tuned),0.456,0.399,0.1771
